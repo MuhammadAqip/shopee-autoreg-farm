@@ -1,8 +1,20 @@
 <!-- HERO -->
 <p align="center">
-  <img src="assets/banner.png" alt="shopee-autoreg-farm" width="100%">
+  <img src="https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white" alt="python">
+  <img src="https://img.shields.io/badge/playwright-1.x-2EAD33?logo=playwright&logoColor=white" alt="playwright">
+  <img src="https://img.shields.io/badge/files-370-informational" alt="files">
+  <img src="https://img.shields.io/badge/docs-88-success" alt="docs">
+  <img src="https://img.shields.io/badge/dry_run-safe-yellow" alt="mode">
+  <img src="https://img.shields.io/badge/captcha-cached-brightgreen" alt="captcha">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
 </p>
 
+<p align="center"><a href="https://github.com/MuhammadAqip?tab=stars"><img src="https://img.shields.io/badge/⭐_Star_this_repo-%E2%98%85-FFD700?style=for-the-badge" alt="Star this repo"></a></p>
+
+<p align="center">
+  <img src="assets/demo.gif" alt="demo" width="100%">
+</p>
 <h3 align="center">Farm registrasi Shopee berbasis browser nyata — fingerprint, captcha cache, rotasi key.</h3>
 
 <p align="center"><code>shopee-autoreg-farm</code></p>
@@ -17,9 +29,6 @@
 <details>
 <summary><b>Screenshot — output nyata</b></summary>
 
-<p align="center">
-  <img src="assets/terminal.png" alt="terminal" width="100%">
-</p>
 
 </details>
 
