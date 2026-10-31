@@ -1,5 +1,9 @@
 <!-- HERO -->
 <p align="center">
+  <img src="assets/banner.png" alt="shopee-autoreg-farm" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/playwright-1.x-2EAD33?logo=playwright&logoColor=white" alt="playwright">
   <img src="https://img.shields.io/badge/files-370-informational" alt="files">
@@ -10,25 +14,33 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
 </p>
 
-<p align="center"><a href="https://github.com/MuhammadAqip?tab=stars"><img src="https://img.shields.io/badge/⭐_Star_this_repo-%E2%98%85-FFD700?style=for-the-badge" alt="Star this repo"></a></p>
-
 <p align="center">
-  <img src="assets/demo.gif" alt="demo" width="100%">
+  <a href="https://github.com/MuhammadAqip?tab=stars">
+    <img src="https://img.shields.io/badge/%E2%AD%90_Star_this_repo-%E2%98%85-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star this repo">
+  </a>
 </p>
-<h3 align="center">Farm registrasi Shopee berbasis browser nyata — fingerprint, captcha cache, rotasi key.</h3>
 
-<p align="center"><code>shopee-autoreg-farm</code></p>
+### Farm registrasi Shopee berbasis browser nyata — fingerprint, captcha cache, rotasi key.
+
+<p align="center"><code>MuhammadAqip/shopee-autoreg-farm</code></p>
 
 | | |
 |---|---|
 | **Stack** | Python · Playwright · SadCaptcha |
 | **Ukuran** | 370 file · 88 dokumen |
 | **Isi** | auto_reg · farm_production · worker_pool · key_manager |
-| **Docs** | [README](README.md) · [AGENTS](AGENTS.md) · [ROADMAP](docs/ROADMAP.md) |
+| **Docs** | [README](README.md) · [AGENTS](AGENTS.md) · [ADVICE](docs/ADVICE.md) |
+
+<p align="center">
+  <img src="assets/demo.gif" alt="demo — output nyata" width="100%">
+</p>
 
 <details>
-<summary><b>Screenshot — output nyata</b></summary>
+<summary><b>Screenshot statis</b></summary>
 
+<p align="center">
+  <img src="assets/terminal.png" alt="terminal" width="100%">
+</p>
 
 </details>
 
