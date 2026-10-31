@@ -1,0 +1,17 @@
+[
+ {
+  "op": "generateKey",
+  "alg": "X25519",
+  "usages": [
+   "deriveBits"
+  ]
+ },
+ {
+  "op": "deriveBits",
+  "alg": "X25519",
+  "alg2": "X25519",
+  "bits": 256,
+  "res_len": 32,
+  "res_hex": "5ce48f12f77f4627ea9ee8e1ce0675e6e2004791d285821244cfc881aa784c44"
+ }
+]

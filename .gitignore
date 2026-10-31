@@ -1,0 +1,69 @@
+# Kredensial — JANGAN PERNAH di-commit
+config.json
+accounts.json
+accounts*.json
+account_result.json
+accounts_success.txt
+accounts.csv
+accounts_health.json
+phone_reputation.json
+key_store.json
+*.corrupt.*
+.env
+.env.*
+!.env.example
+proxies.txt
+proxies_*.txt
+cookies*.txt
+*_cookie*.txt
+ck*.txt
+
+# Database runtime (besar, bisa dibuat ulang)
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.db.bak*
+captcha_cache.db*
+
+# Binary & artefak besar
+*.zip
+*.gz
+*.tar
+*.tgz
+*.apk
+*.xapk
+*.exe
+*.dll
+*.so
+
+# Output run
+farm_out/
+logs/
+*.log
+*.pid
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Browser profile (disposable, besar)
+uc_profile/
+shots/
+capture/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# env files
+.bot.env
+*.env

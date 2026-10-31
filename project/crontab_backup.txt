@@ -1,0 +1,12 @@
+* * * * * /usr/local/sa/agent/secu-tcs-agent-mon-safe.sh > /dev/null 2>&1
+*/5 * * * * flock -xn /tmp/stargate.lock -c '/usr/local/qcloud/stargate/admin/start.sh > /dev/null 2>&1 &'
+# shopee-farm maintenance
+*/30 * * * * cd /root/shopee-farm && /root/sniffenv/bin/python key_watchdog.py --min-alive 2 --min-credits 20 >> /tmp/watchdog.log 2>&1
+0 */6 * * * cd /root/shopee-farm && /root/sniffenv/bin/python account_warmer.py --proxy --warm >> /tmp/health.log 2>&1
+15 */2 * * * cd /root/shopee-farm && /root/sniffenv/bin/python proxy_health.py >> /tmp/proxyhealth.log 2>&1
+*/20 * * * * cd /root/shopee-farm && timeout 300 /root/sniffenv/bin/python prewarm_cache.py 15 --headless >> /tmp/prewarm.log 2>&1
+# shopee-farm PRODUCTION (Option A / page-context)
+0 2 * * * cd /root/shopee-farm && /root/sniffenv/bin/python farm_production.py --plan 50 >> /tmp/farm_plan.log 2>&1
+2 2 * * * cd /root/shopee-farm && /root/sniffenv/bin/python farm_production.py --run >> /tmp/farm_run.log 2>&1
+30 */6 * * * cd /root/shopee-farm && /root/sniffenv/bin/python key_manager.py refresh >> /tmp/keyref.log 2>&1
+0 6 * * * cd /root/shopee-farm && /root/sniffenv/bin/python captcha_cache.py prune 30 >> /tmp/cacheprune.log 2>&1

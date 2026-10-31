@@ -1,0 +1,19 @@
+[Unit]
+Description=Shopee Farm Telegram Bot (@tokn_aiBot)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/shopee-farm
+EnvironmentFile=/root/shopee-farm/.bot.env
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/root/sniffenv/bin/python /root/shopee-farm/shopeebot.py
+Restart=always
+RestartSec=10
+StandardOutput=append:/tmp/bot_v12.log
+StandardError=append:/tmp/bot_v12.log
+
+[Install]
+WantedBy=multi-user.target

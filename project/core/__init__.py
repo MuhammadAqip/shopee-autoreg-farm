@@ -1,0 +1,1 @@
+"""Shopee farm core package."""

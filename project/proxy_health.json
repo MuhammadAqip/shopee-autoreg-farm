@@ -1,0 +1,74 @@
+[
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10000",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10001",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10002",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10003",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10004",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10005",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10006",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10007",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10008",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10009",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10010",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ },
+ {
+  "proxy": "http://8108c95881d0c4b2f18e__cr.id;sessttl.5:7dfd03c5eb868991@gb.vsproxy.org:10011",
+  "ok": false,
+  "err": "Expecting value: line 1 column 1 (char 0)",
+  "score": -9999
+ }
+]

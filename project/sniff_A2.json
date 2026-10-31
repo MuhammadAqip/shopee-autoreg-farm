@@ -1,0 +1,135 @@
+[
+  {
+    "m": "GET",
+    "u": "https://shopee.co.id/buyer/signup",
+    "s": 200,
+    "post": "",
+    "body": "<!doctype html>\n<html dir=\"ltr\">\n<head>\n<link rel=\"preconnect\" href=\"//down-id.img.susercontent.com/\">\n<link rel=\"preconnect\" href=\"//deo.shopeemobile.com/shopee/\">\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover\">\n<meta name=\"shopee:git-sha\" content=\"d0094d2d7c08df9dd5954e8656e87789cff7a8c"
+  },
+  {
+    "m": "GET",
+    "u": "https://shopee.co.id/api/v4/platform/get_ft_v2",
+    "s": 200,
+    "post": "",
+    "body": "{\"bff_meta\":null,\"data\":[{\"name\":\"02394f74\",\"toggle\":true},{\"name\":\"283b2cb0\",\"toggle\":true},{\"name\":\"ff4562ea\",\"toggle\":false},{\"name\":\"71f660eb\",\"toggle\":true},{\"name\":\"a2712800\",\"toggle\":false},{\"name\":\"33aa3e7f\",\"toggle\":true},{\"name\":\"66d49261\",\"toggle\":true},{\"name\":\"815b5c4f\",\"toggle\":true},{\"name\":\"4e7f9c77\",\"toggle\":true},{\"name\":\"283c9ed7\",\"toggle\":true},{\"name\":\"a907e341\",\"toggle\":false"
+  },
+  {
+    "m": "GET",
+    "u": "https://shopee.co.id/api/v4/account/basic/get_account_info",
+    "s": 200,
+    "post": "",
+    "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}"
+  },
+  {
+    "m": "GET",
+    "u": "https://shopee.co.id/api/v4/account/subaccount",
+    "s": 200,
+    "post": "",
+    "body": "{\"data\":\"OK\"}"
+  },
+  {
+    "m": "GET",
+    "u": "https://shopee.co.id/api/v4/account/basic/get_payment_info",
+    "s": 200,
+    "post": "",
+    "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/web/subcart",
+    "s": 200,
+    "post": "{\"data\":\"hgAPRigAMCtmxde16++UdFjHdmnv7OUt9EkvivlgcDz2r56TqHzcvFMv216EX8ujxU3oO73mgwMA4/ZZmRLzqi4mfYen5mElVVw4BlEZ2mwqVj6/tdPN3PLjaY+3VSJ44eL7TCBuKtKM2wGk1z9MvV9dxEKHcChiSWCaKLV4HQmE/7tH9XH68IFRk2ZQeQkPerhYyJ5UNgL1NBCISDWDys0I3wfbZE63l9LMh5HhnEKqg+0SRBK+k8kpvTcH93KA8DtIbqzUM3uK5v/AIQBhrZiVj+icfMvfPmqDV0/TGOZY04PG7dzpxyNpZezCUolleNVPRr41G3qarqelUAxPB7jYWBfnn5eVpAMEh0ZwiRt7oQ1HE9Hm3yDt6PifCKPu8nHgauN",
+    "body": "{\"data\":\"OK\"}"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/account/get_banner_text",
+    "s": 200,
+    "post": "{\"banner_name\":\"new_user_signup_page\"}",
+    "body": "{\"bff_meta\":null,\"error\":0,\"error_msg\":null,\"data\":{\"text\":\"Daftar \\u0026 nikmati berbagai promo menarik!\"}}"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/abtest/traffic/get_web_experiments",
+    "s": 200,
+    "post": "{\"meta\":{\"country\":\"ID\",\"device_fingerprint\":\"xk8E5lJkuIwES8UxySg01Lu8QIowY2tE\"},\"filter_data\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"4\"}],\"biz_name\":\"marketplace\",\"scene_keys\":[\"User_Account\"]}",
+    "body": "{\"data\":[{\"version\":2696950,\"dimension\":\"deviceFingerprint\",\"dimension_value\":\"xk8E5lJkuIwES8UxySg01Lu8QIowY2tE\",\"feature_map\":[],\"experiments\":[{\"exp_name\":\"seller_standalone_login_page_reduce_loading_time\",\"group_name\":\"standalone_seller_page_experiment_group\",\"parameter\":\"experiment_new_page\",\"group_id\":363646,\"hot_update\":null},{\"exp_name\":\"extend_web_expiry\",\"group_name\":\"treatment\",\"paramete"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/experiment/config",
+    "s": 200,
+    "post": "{\"env\":\"live\",\"locale\":\"ID\",\"scene\":\"shopee\",\"href\":\"https://shopee.co.id/buyer/signup\"}",
+    "body": "{\"is_success\":true,\"url\":\"https://deo.shopeemobile.com/shopee/dynamic-experiment/browser-signals/bundle.fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12.js\"}"
+  },
+  {
+    "m": "GET",
+    "u": "https://www.facebook.com/x/oauth/status",
+    "s": 200,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/experiment/performance",
+    "s": 200,
+    "post": "{\"base\":{\"href\":\"https://shopee.co.id/buyer/signup\",\"hashVersion\":\"fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12\",\"collectionStartTimestamp\":1791973580646,\"npmCollectEndTimestamp\":1791973580685,\"cdnLoadStartTimestamp\":1791973580770,\"cdnCollectEndTimestamp\":1791973580903},\"experiment\":{\"webglSupported\":true,\"webglVersion\":\"WebGL 1.0\",\"webglRenderHashBefore\":\"687da50850c97775377ee",
+    "body": "{\"is_success\":true}"
+  },
+  {
+    "m": "POST",
+    "u": "https://shopee.co.id/api/v4/abtest/traffic/get_web_experiments",
+    "s": 200,
+    "post": "{\"meta\":{\"country\":\"ID\",\"device_fingerprint\":\"xk8E5lJkuIwES8UxySg01Lu8QIowY2tE\"},\"filter_data\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"4\"}],\"biz_name\":\"marketplace\",\"scene_keys\":[\"User_Identity\"]}",
+    "body": "{\"data\":[],\"error\":null,\"error_msg\":null,\"debug\":null,\"retcode\":0}"
+  },
+  {
+    "m": "POST",
+    "u": "https://www.google.com/ccm/collect",
+    "s": 200,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "POST",
+    "u": "https://www.google-analytics.com/g/collect",
+    "s": 204,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "GET",
+    "u": "https://9469210.fls.doubleclick.net/activityi;src=9469210;type=eng;cat=id-w-pg;rcb=1;ord=3877098266522;npa=0;auiddc=1642549226.1791973582;u28=%2Fbuyer%2Fsignup;u29=Daftar%20sekarang!%20%7C%20Shopee%20Indonesia;uaa=arm;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4;uamb=0;uam=;uap=Android;uapv=13;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ac1h1v9190621570z877691473za20gzb77691473zd77691473xeaxf1;gcs=G1--;gcd=13l3l3l3l5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1791973582_0ypwhFd0bFxRwpeGee6k7TwLsREOFb_1bQ;_dc_test=1;~oref=https%3A%2F%2Fshopee.co.id%2Fbuyer%2Fsignup",
+    "s": 200,
+    "post": "",
+    "body": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"><html><head><title></title></head><body style=\"background-color: transparent\"><img src=\"https://adservice.google.com/ddm/fls/z/src=9469210;type=eng;cat=id-w-pg;rcb=1;ord=3877098266522;npa=0;auiddc=*;u28=%2Fbuyer%2Fsignup;u29=Daftar%20sekarang!%20%7C%20Shopee%20Indonesia;uaa=arm;uab=64;uafvl=Not%25"
+  },
+  {
+    "m": "GET",
+    "u": "https://adservice.google.com/ddm/fls/z/src=9469210;type=eng;cat=id-w-pg;rcb=1;ord=3877098266522;npa=0;auiddc=*;u28=%2Fbuyer%2Fsignup;u29=Daftar%20sekarang!%20%7C%20Shopee%20Indonesia;uaa=arm;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4;uamb=0;uam=;uap=Android;uapv=13;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ac1h1v9190621570z877691473za20gzb77691473zd77691473xeaxf1;gcs=G1--;gcd=13l3l3l3l5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1791973582_0ypwhFd0bFxRwpeGee6k7TwLsREOFb_1bQ;_dc_test=1;~oref=https%3A%2F%2Fshopee.co.id%2Fbuyer%2Fsignup",
+    "s": 200,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "POST",
+    "u": "https://ad.doubleclick.net/activity;src=9469210;type=eng;cat=id-w-pg;rcb=1;ord=3877098266522;npa=0;auiddc=1642549226.1791973582;u28=%2Fbuyer%2Fsignup;u29=Daftar%20sekarang!%20%7C%20Shopee%20Indonesia;uaa=arm;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4;uamb=0;uam=;uap=Android;uapv=13;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ac1h1v9190621570z877691473za20gzb77691473zd77691473xeaxf1;gcs=G1--;gcd=13l3l3l3l5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1791973582_0ypwhFd0bFxRwpeGee6k7TwLsREOFb_1bQ;~oref=https%3A%2F%2Fshopee.co.id%2Fbuyer%2Fsignup",
+    "s": 302,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "GET",
+    "u": "https://www.google.com/gmp/conversion/_dc_unique_id=12063410084313455767;_dc_ptd=ChEI8NC81gYQwfil5v-5vrjKARIfAD3uXwlLi4Volnti4KBAnnHWidUzlsGHdvV1ZbShpw;_dc_time=1791973583;src=9469210;type=eng;cat=id-w-pg;rcb=1;ord=3877098266522;npa=0;auiddc=1642549226.1791973582;u28=%2Fbuyer%2Fsignup;u29=Daftar%20sekarang!%20%7C%20Shopee%20Indonesia;uaa=arm;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4;uamb=0;uam=;uap=Android;uapv=13;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ac1h1v9190621570z877691473za20gzb77691473zd77691473xeaxf1;gcs=G1--;gcd=13l3l3l3l5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1791973582_0ypwhFd0bFxRwpeGee6k7TwLsREOFb_1bQ;~oref=https%3A%2F%2Fshopee.co.id%2Fbuyer%2Fsignup",
+    "s": 200,
+    "post": "",
+    "body": "<bin>"
+  },
+  {
+    "m": "POST",
+    "u": "https://www.google-analytics.com/g/collect",
+    "s": 204,
+    "post": "",
+    "body": "<bin>"
+  }
+]

@@ -1,0 +1,2626 @@
+=== table aj() — 1555 strings ===
+[aj:0] exports
+[aj:1] __esModule
+[aj:2] default
+[aj:3] defineProperty
+[aj:4] value
+[aj:5] _document
+[aj:6] undefined
+[aj:7] createElement
+[aj:8] 106
+[aj:9] __importDefault
+[aj:10] vmp_getResolution
+[aj:11] zoom
+[aj:12] devicePxPerCssPx
+[aj:13] BODY_FILED_SLOT_OBJ
+[aj:14] 296
+[aj:15] vmp_getPlovdr
+[aj:16] vmp_getFtovdr
+[aj:17] vmp_getHdovdr
+[aj:18] vmp_getCyclicError
+[aj:19] getPrototypeOf
+[aj:20] setPrototypeOf
+[aj:21] toString
+[aj:22] call
+[aj:23] message
+[aj:24] slice
+[aj:25] getOwnPropertyDescriptor
+[aj:26] __proto__
+[aj:27] hardwareConcurrency
+[aj:28] get
+[aj:29] replace
+[aj:30] P|I
+[aj:31] n|Y
+[aj:32] platform
+[aj:33] Z|K
+[aj:34] 327
+[aj:35] vmp_getBatteryInfoPromise
+[aj:36] _navigator
+[aj:37] getBattery
+[aj:38] then
+[aj:39] catch
+[aj:40] emptyBatteryInfo
+[aj:41] Infinity
+[aj:42] stringify
+[aj:43] resolve
+[aj:44] t|u
+[aj:45] 499
+[aj:46] removeEvent
+[aj:47] addEvent
+[aj:48] addEventListener
+[aj:49] attachEvent
+[aj:50] removeEventListener
+[aj:51] detachEvent
+[aj:52] 521
+[aj:53] vmp_getChromeKeys
+[aj:54] chrome
+[aj:55] runtime
+[aj:56] object
+[aj:57] |badRuntime:
+[aj:58] concat
+[aj:59] ;highIdx:
+[aj:60] join
+[aj:61] L|w
+[aj:62] 547
+[aj:63] vmp_getAudioPrinting
+[aj:64] _win
+[aj:65] canPlayType
+[aj:66] video
+[aj:67] function
+[aj:68] video/quicktime
+[aj:69] quicktime:
+[aj:70] video/ogg; codecs="theora"
+[aj:71] oggTheora:
+[aj:72] video/ogg; codecs="opus"
+[aj:73] oggOpus:
+[aj:74] video/ogg; codecs="speex"
+[aj:75] oggSpeex:
+[aj:76] video/mp4; codecs="avc1.42E01E"
+[aj:77] mp4:
+[aj:78] video/mp4; codecs="mp4v.20.240, mp4a.40.2"
+[aj:79] mp4v:
+[aj:80] video/mp4; codecs=bogus
+[aj:81] mp4bogus:
+[aj:82] video/webm; codecs="vp8, vorbis"
+[aj:83] webm:
+[aj:84] video/x-mpeg
+[aj:85] xMpeg:
+[aj:86] video/x-matroska; codecs="theora, vorbis"
+[aj:87] xMatroska:
+[aj:88] video/3gpp; codecs="mp4v.20.8, samr"
+[aj:89] 3gpp:
+[aj:90] H|c
+[aj:91] audio
+[aj:92] audio/ogg; codecs="vorbis"
+[aj:93] ogg:
+[aj:94] "audio/mpeg;"
+[aj:95] mpeg:
+[aj:96] audio/wav; codecs="1"
+[aj:97] wav:
+[aj:98] audio/wave; codecs="0"
+[aj:99] wave0:
+[aj:100] audio/wave; codecs="1"
+[aj:101] wave1:
+[aj:102] audio/wave; codecs="2"
+[aj:103] wave2:
+[aj:104] audio/x-m4a;
+[aj:105] audio/aac;
+[aj:106] xm4a:
+[aj:107] audio/mp4; codecs="mp4a.40.2"
+[aj:108] mp4a:
+[aj:109] audio/x-mpeg
+[aj:110] audio/x-mpegurl
+[aj:111] xMpegUrl:
+[aj:112] J|G
+[aj:113] emptyAudio
+[aj:114] createOscillator
+[aj:115] createDynamicsCompressor
+[aj:116] startRendering
+[aj:117] createAnalyser
+[aj:118] createGain
+[aj:119] createScriptProcessor
+[aj:120] connect
+[aj:121] start
+[aj:122] OfflineAudioContext
+[aj:123] webkitOfflineAudioContext
+[aj:124] type
+[aj:125] triangle
+[aj:126] frequency
+[aj:127] threshold
+[aj:128] knee
+[aj:129] ratio
+[aj:130] attack
+[aj:131] release
+[aj:132] destination
+[aj:133] oncomplete
+[aj:134] renderedBuffer
+[aj:135] getChannelData
+[aj:136] subarray
+[aj:137] abs
+[aj:138] name
+[aj:139] indexOf
+[aj:140] native code
+[aj:141] audioContext.
+[aj:142] compressor.
+[aj:143] oscillator.
+[aj:144] number
+[aj:145] z|U
+[aj:146] 662
+[aj:147] div
+[aj:148] dir
+[aj:149] Safari
+[aj:150] outerWidth
+[aj:151] innerWidth
+[aj:152] outerHeight
+[aj:153] innerHeight
+[aj:154] Firebug
+[aj:155] isInitialized
+[aj:156] 772
+[aj:157] getChunkData
+[aj:158] split
+[aj:159] #.*\}(?=:\d+:\d+\))
+[aj:160] #.*\}:\d+:\d+$
+[aj:161] \?[^):\s]+
+[aj:162] https?:\/\/deo\.shopeemobile\.com\/shopee\/
+[aj:163] :\d+:\d+
+[aj:164] trim
+[aj:165] startsWith
+[aj:166] at 
+[aj:167] at eval \(eval at 
+[aj:168] test
+[aj:169] match
+[aj:170] at eval \(eval at (\S+) \(([^)]+)\)
+[aj:171] :\d+:\d+\)?$
+[aj:172] has
+[aj:173] add
+[aj:174] codeInfo
+[aj:175] index
+[aj:176] floor
+[aj:177] random
+[aj:178] 905
+[aj:179] __awaiter
+[aj:180] next
+[aj:181] throw
+[aj:182] done
+[aj:183] __generator
+[aj:184] label
+[aj:185] sent
+[aj:186] trys
+[aj:187] ops
+[aj:188] create
+[aj:189] return
+[aj:190] iterator
+[aj:191] Generator is already executing.
+[aj:192] vmp_getSupportX25519
+[aj:193] crypto
+[aj:194] subtle
+[aj:195] generateKey
+[aj:196] deriveBits
+[aj:197] unsupport
+[aj:198] X25519
+[aj:199] public
+[aj:200] publicKey
+[aj:201] privateKey
+[aj:202] byteLength
+[aj:203] z|Y
+[aj:204] 970
+[aj:205] [native code]
+[aj:206] 1132
+[aj:207] 1156
+[aj:208] @@iterator
+[aj:209] 1183
+[aj:210] vmp_getMediaFeaturePrefs
+[aj:211] matchMedia
+[aj:212] matches
+[aj:213] dark:
+[aj:214] (prefers-color-scheme: dark)
+[aj:215] rm:
+[aj:216] (prefers-reduced-motion: reduce)
+[aj:217] fc:
+[aj:218] (forced-colors: active)
+[aj:219] ic:
+[aj:220] (inverted-colors: inverted)
+[aj:221] pc:
+[aj:222] (pointer: coarse)
+[aj:223] pf:
+[aj:224] (pointer: fine)
+[aj:225] hc:
+[aj:226] (hover: hover)
+[aj:227] srgb:
+[aj:228] (color-gamut: srgb)
+[aj:229] p3:
+[aj:230] (color-gamut: p3)
+[aj:231] 1200
+[aj:232] pct
+[aj:233] pcv
+[aj:234] 1458
+[aj:235] vmp_getPixelDepth
+[aj:236] vmp_getScreenSize
+[aj:237] screen
+[aj:238] width
+[aj:239] height
+[aj:240] F|y
+[aj:241] colorDepth
+[aj:242] pixelDepth
+[aj:243] max
+[aj:244] screenLeft
+[aj:245] screenX
+[aj:246] screenTop
+[aj:247] screenY
+[aj:248] document
+[aj:249] body
+[aj:250] clientWidth
+[aj:251] clientHeight
+[aj:252] 1869
+[aj:253] Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[aj:254] 2065
+[aj:255] 2240
+[aj:256] uint8ArrayToStringV2
+[aj:257] fromCharCode
+[aj:258] from
+[aj:259] buffer
+[aj:260] setBigUint64
+[aj:261] BigInt
+[aj:262] pow
+[aj:263] setUint32
+[aj:264] setUint16
+[aj:265] setUint8
+[aj:266] error7
+[aj:267] 2251
+[aj:268] vmp_getWebGpuWGSL
+[aj:269] vmp_getWebGpuPCF
+[aj:270] now
+[aj:271] gpu
+[aj:272] requestAdapter
+[aj:273] features
+[aj:274] values
+[aj:275] info
+[aj:276] isFallbackAdapter
+[aj:277] mbs: 
+[aj:278] limits
+[aj:279] maxBufferSize
+[aj:280] , msbbs: 
+[aj:281] maxStorageBufferBindingSize
+[aj:282] getAd:
+[aj:283] , adFt:
+[aj:284] map
+[aj:285] l|a
+[aj:286] j|Y
+[aj:287] L|E
+[aj:288] b|c
+[aj:289] wgslLanguageFeatures
+[aj:290] T|U
+[aj:291] getPreferredCanvasFormat
+[aj:292] x|m
+[aj:293] 2411
+[aj:294] vmp_getCaretPositionFromPointCheck
+[aj:295] caretPositionFromPoint
+[aj:296] offsetNode
+[aj:297] offset
+[aj:298] fontSize
+[aj:299] style
+[aj:300] position
+[aj:301] fixed
+[aj:302] left
+[aj:303] top
+[aj:304] zIndex
+[aj:305] 1000000
+[aj:306] opacity
+[aj:307] color
+[aj:308] transparent
+[aj:309] textarea
+[aj:310] rows
+[aj:311] cols
+[aj:312] 12345678
+901234567890
+[aj:313] appendChild
+[aj:314] fonts
+[aj:315] ready
+[aj:316] firstChild
+[aj:317] getBoundingClientRect
+[aj:318] \d+
+[aj:319] fontSize unmatch: 
+[aj:320] bottom
+[aj:321] remove
+[aj:322] rect
+[aj:323] right
+[aj:324] tagName
+[aj:325] nodeName
+[aj:326] noCaretPosition
+[aj:327] 2585
+[aj:328] new
+[aj:329] b|E
+[aj:330] 2888
+[aj:331] mediaDevices
+[aj:332] enumerateDevices
+[aj:333] isArray
+[aj:334] stack
+[aj:335] string
+[aj:336] empty
+[aj:337] l|S
+[aj:338] 2897
+[aj:339] getOwnPropertySymbols
+[aj:340] filter
+[aj:341] enumerable
+[aj:342] getOwnPropertyDescriptors
+[aj:343] defineProperties
+[aj:344] 2946
+[aj:345] setSessionStorageEnbale
+[aj:346] setLocalStorageEnbale
+[aj:347] setCookieEnbale
+[aj:348] igetStorageUuid
+[aj:349] igetSessionUuid
+[aj:350] igetCookieUuid
+[aj:351] getUuidTrack
+[aj:352] __WIR_SZ_UNIQ_DC
+[aj:353] OPESKEDCVSD
+[aj:354] _QPWSDCXHZQA
+[aj:355] REC7iLP4Q
+[aj:356] setData
+[aj:357] getData
+[aj:358] storage
+[aj:359] session
+[aj:360] ll_ss
+[aj:361] set
+[aj:362] ll_cc ss;
+[aj:363] ll new create;
+[aj:364] ll_ss_nc new create;
+[aj:365] ll_cc ns;
+[aj:366] ll_ns_cc new create;
+[aj:367] ll_ns_nc new create;
+[aj:368] nl_ss;
+[aj:369] nl_cc ss;
+[aj:370] nl_ss_cc new create;
+[aj:371] nl_ss_nc new create;
+[aj:372] nl_cc ns;
+[aj:373] nl_ns_cc new create;
+[aj:374] nl_ns_nc new create;
+[aj:375] l|W
+[aj:376] getTime
+[aj:377] expires
+[aj:378] path
+[aj:379] cc_ll;
+[aj:380] cc_ss ll;
+[aj:381] cc new create;
+[aj:382] cc_ll_ns new create;
+[aj:383] cc_getll;
+[aj:384] cc_ss nl;
+[aj:385] cc_nl_ss new create;
+[aj:386] cc_nl_ns new create;
+[aj:387] nc_ll;
+[aj:388] nc_ss ll;
+[aj:389] nc_ll_ss new create;
+[aj:390] nc_ll_ns new create;
+[aj:391] nc_getll;
+[aj:392] nc_ss nl;
+[aj:393] nc_ss_nl new create;
+[aj:394] nc_ns_nc new create;
+[aj:395] ss_ll;
+[aj:396] ss_cc ll;
+[aj:397] ss new create;
+[aj:398] ss_getcc ll;
+[aj:399] ss_ll_nc new create;
+[aj:400] ss_getll;
+[aj:401] ss_cc nl;
+[aj:402] ss_nl_cc new create;
+[aj:403] ss_getcc nl;
+[aj:404] ss_nl_ns new create;
+[aj:405] ns_ll;
+[aj:406] ns_cc ll;
+[aj:407] ns_ll_cc new create;
+[aj:408] ns_ll_nc new create;
+[aj:409] ns_getll;
+[aj:410] ns_cc nl;
+[aj:411] ns_nl_cc new create;
+[aj:412] ns_getcc nl;
+[aj:413] ns_nl_nc new create;
+[aj:414] V|G
+[aj:415] p|e
+[aj:416] f|o
+[aj:417] createUUidV2
+[aj:418] H|w
+[aj:419] 2971
+[aj:420] vmp_getWebdriverEvidence
+[aj:421] MAAYGDFTKXGTAGXCNWCVGmAAUGNGPKWOAGXCNWCVGmAAYGDFTKXGTAUETKRVAHWPEVKQPmAAYGDFTKXGTAUETKRVAHWPEmAAYGDFTKXGTAUETKRVAHPmAAHZFTKXGTAGXCNWCVGmAAFTKXGTAWPYTCRRGFmAAYGDFTKXGTAWPYTCRRGFmAAFTKXGTAGXCNWCVGmAAUGNGPKWOAWPYTCRRGFmAAHZFTKXGTAWPYTCRRGF
+[aj:422] mq[zsY_ZX;qqY{yz_Xs]w;q^w~wY{`X;us~~PzsY_ZX;us~~Sw~wY{`X;qSw~wY{`XqIDEqRwuZ]vw];qqxcv]{aw]q`Yb]s[[wv;xcv]{aw]q{v;bwtv]{aw]
+[aj:423] window.
+[aj:424] window.document.
+[aj:425] \$[a-z]dc_
+[aj:426] cache_
+[aj:427] .cache_;
+[aj:428] external
+[aj:429] Sequentum
+[aj:430] window.external.toString()=
+[aj:431] y}khjxo|kx
+[aj:432] documentElement
+[aj:433] getAttribute
+[aj:434] selenium
+[aj:435] HAMFE|E>F>GM A:LxMMKB;NM> L>E>GBNF
+[aj:436] RamfeEe^f^gm aZlAmmkb[nm^ p^[]kbo^k
+[aj:437] driver
+[aj:438] vq}vuEunvnw} qj|A}}{rk~}n m{rLn{;
+[aj:439] c_}gZX}e`c.hV~UcZgVc=
+[aj:440] userAgent
+[aj:441] textContent
+[aj:442] ^i625=6DDMq92?E@>
+[aj:443] JnZ aZl }^Z]e^lluIaZgmhf
+[aj:444] m42
+[aj:445] __bas_debug
+[aj:446] __bas_runtime
+[aj:447] __ghost_cursor
+[aj:448] __ghostCursor
+[aj:449] __webdriver_script_fn
+[aj:450] domAutomation
+[aj:451] webdriver
+[aj:452] \[native code\]
+[aj:453] wdGetterHooked;
+[aj:454] getOwnPropertyNames
+[aj:455] webdriver|selenium
+[aj:456] navOwnProp:
+[aj:457] clipboard
+[aj:458] writeText
+[aj:459] navClipboardProto;
+[aj:460] h|W
+[aj:461] H|E
+[aj:462] 2987
+[aj:463] 3102
+[aj:464] 3169
+[aj:465] vendor
+[aj:466] Apple
+[aj:467] indexedDB
+[aj:468] open
+[aj:469] onupgradeneeded
+[aj:470] deleteDatabase
+[aj:471] target
+[aj:472] result
+[aj:473] createObjectStore
+[aj:474] autoIncrement
+[aj:475] put
+[aj:476] BlobURLs are not yet supported
+[aj:477] close
+[aj:478] safari
+[aj:479] pushNotification
+[aj:480] requestPermission
+[aj:481] https://example.com
+[aj:482] private
+[aj:483] gesture
+[aj:484] isPrivateMode
+[aj:485] incognitoDetail
+[aj:486] mac_error_code
+[aj:487] tmp_value_
+[aj:488] tmpUAN_name_
+[aj:489] getElementsByTagName
+[aj:490] iframe
+[aj:491] hasOwnProperty
+[aj:492] removeChild
+[aj:493] display
+[aj:494] none
+[aj:495] contentWindow
+[aj:496] applicationCache
+[aj:497] error
+[aj:498] ios_iframe_code
+[aj:499] openDatabase
+[aj:500] localStorage
+[aj:501] old_ios_db_code
+[aj:502] setItem
+[aj:503] test_xxx_eee
+[aj:504] removeItem
+[aj:505] old_ios_store_code
+[aj:506] performance
+[aj:507] memory
+[aj:508] jsHeapSizeLimit
+[aj:509] estimate
+[aj:510] webkitTemporaryStorage
+[aj:511] queryUsageAndQuota
+[aj:512] quota
+[aj:513] usage
+[aj:514] doGetOsByUa
+[aj:515] doCheckBroswerBySide
+[aj:516] doCheckCssQuery
+[aj:517] orientation
+[aj:518] iOS
+[aj:519] Mac
+[aj:520] Other
+[aj:521] Firefox
+[aj:522] mozIndexedDB
+[aj:523] webkitIndexedDB
+[aj:524] msIndexedDB
+[aj:525] db_error
+[aj:526] onerror
+[aj:527] db_error_code
+[aj:528] onsuccess
+[aj:529] Internet Explorer
+[aj:530] db_not_exit
+[aj:531] db_ie_error
+[aj:532] braveEthereum
+[aj:533] 3228
+[aj:534] vmp_getIntlInfo
+[aj:535] Intl
+[aj:536] DateTimeFormat
+[aj:537] resolvedOptions
+[aj:538] hourCycle
+[aj:539] hour
+[aj:540] numeric
+[aj:541] timeZone
+[aj:542] locale
+[aj:543] calendar
+[aj:544] numberingSystem
+[aj:545] R|a
+[aj:546] 3332
+[aj:547] data
+[aj:548] checkType
+[aj:549] action
+[aj:550] FB_LOG
+[aj:551] wappalyzer
+[aj:552] data:
+[aj:553] origin
+[aj:554] origin:
+[aj:555] B|C
+[aj:556] 3394
+[aj:557] FontListToUse
+[aj:558] _0x1ec4
+[aj:559] overrideFunc
+[aj:560] recursivelyModifyFonts
+[aj:561] seedinit
+[aj:562] webrtc_disabled
+[aj:563] loaded__
+[aj:564] makeModifiedInnerHTML
+[aj:565] makeModifiedOuterHTML
+[aj:566] makeModifiedSetCssText
+[aj:567] modifiedAppend
+[aj:568] modifiedCssSetProperty
+[aj:569] modifiedGetClientRects
+[aj:570] modifiedSetAttribute
+[aj:571] deepCopy
+[aj:572] defineobjectproperty
+[aj:573] generateGeolocation
+[aj:574] generatePluginArray
+[aj:575] getAjax
+[aj:576] getAllowedFontFamily
+[aj:577] _dconfig.random
+[aj:578] _hninfo
+[aj:579] chrome.runtime.LicenseType;all
+[aj:580] chrome.runtime.LoginStatus;all
+[aj:581] chrome.runtime.LogoutReason;all
+[aj:582] chrome.runtime.OnIBUpdateStatusChangedReason;all
+[aj:583] chrome.runtime.QuickTabsType;all
+[aj:584] chrome.runtime.SidebarState;all
+[aj:585] __TencentCaptchaExists__
+[aj:586] AqSCodeCapDomain
+[aj:587] TencentCaptcha
+[aj:588] TCapMsg
+[aj:589] AqSCode
+[aj:590] clickMouseButton
+[aj:591] runCustomCmd
+[aj:592] moveMouseDrag
+[aj:593] moveMouseTo
+[aj:594] setNetworkConditions
+[aj:595] browserInfo;all
+[aj:596] passwordExtensionId;all
+[aj:597] fence
+[aj:598] Document.browsingTopics
+[aj:599] Fence
+[aj:600] Fence.name
+[aj:601] HTMLFencedFrameElement
+[aj:602] HTMLFencedFrameElement.name
+[aj:603] chrome.application.env;
+[aj:604] chrome.application.extension;fun||pick:ipc.oem.open
+[aj:605] chrome.application.process;fun
+[aj:606] chrome.application.debug
+[aj:607] module.id;all
+[aj:608] module.paths
+[aj:609] process.arch;all
+[aj:610] process.argv0;all
+[aj:611] process.version;all
+[aj:612] process.versions.chrome;all
+[aj:613] YandexVideoTranslationStatus
+[aj:614] YandexVideoTranslation
+[aj:615] YandexVideoSubtitlesStatus
+[aj:616] YandexVideoSubtitles
+[aj:617] YandexVideo
+[aj:618] PerformanceYndxEntry
+[aj:619] HTMLOoWVideoSlaveElement
+[aj:620] yandex
+[aj:621] chrome.i18n
+[aj:622] YandexApplicationsFeatureAvailability
+[aj:623] DocumentPolicyViolationReportBody
+[aj:624] CoopAccessViolationReportBody
+[aj:625] HTMLShadowElement
+[aj:626] HTMLContentElement
+[aj:627] SharedArrayBuffer
+[aj:628] ApplicationCache.UNCACHED
+[aj:629] ApplicationCache.IDLE
+[aj:630] ApplicationCache.CHECKING
+[aj:631] ApplicationCache.DOWNLOADING
+[aj:632] ApplicationCache.UPDATEREADY
+[aj:633] ApplicationCache.OBSOLETE
+[aj:634] MediaCapabilitiesInfo
+[aj:635] MediaSettingsRange
+[aj:636] SVGDiscardElement
+[aj:637] WebKitAnimationEvent
+[aj:638] WebKitTransitionEvent
+[aj:639] _0x.{4,}
+[aj:640] tp_.{11}_func
+[aj:641] all
+[aj:642] fun
+[aj:643] pick
+[aj:644] boolean
+[aj:645] null
+[aj:646] array
+[aj:647] window_dta
+[aj:648] window_dta;
+[aj:649] document_dta
+[aj:650] document_dta;
+[aj:651] history_dta
+[aj:652] history_dta;
+[aj:653] navigator_dta
+[aj:654] navigator_dta;
+[aj:655] screen_dta
+[aj:656] screen_dta;
+[aj:657] reduce
+[aj:658] window
+[aj:659] normal
+[aj:660] ApplicationCacheErrorEvent
+[aj:661] ApplicationCacheErrorEvent.prototype:
+[aj:662] reason
+[aj:663] reason:TypeError
+[aj:664] 3405
+[aj:665] atob
+[aj:666] b64UrlEncode
+[aj:667] btoa
+[aj:668] uint8ArrayToDecimalString
+[aj:669] encodeUtf8
+[aj:670] charCodeAt
+[aj:671] byteOffset
+[aj:672] padStart
+[aj:673] [\da-f]{2}
+[aj:674] 3485
+[aj:675] vmp_getMatchChannelData
+[aj:676] vmp_getFloatFrequencyUniqueDataSize
+[aj:677] vmp_hasFakeAudio
+[aj:678] vmp_getAudioStereoDiff
+[aj:679] audioStereoDiff unsupported
+[aj:680] audioStereoDiff missing rendered buffer
+[aj:681] createChannelMerger
+[aj:682] sine
+[aj:683] audioStereoDiff timeout
+[aj:684] short audio buffer
+[aj:685] isFinite
+[aj:686] invalid audio sample
+[aj:687] disconnect
+[aj:688] finally
+[aj:689] audio context access failed
+[aj:690] audio context blocked
+[aj:691] frequencyBinCount
+[aj:692] getFloatFrequencyData
+[aj:693] size
+[aj:694] min
+[aj:695] complete
+[aj:696] fftSize
+[aj:697] getFloatTimeDomainData
+[aj:698] floatFrequencyData
+[aj:699] floatTimeDomainData
+[aj:700] compressorGainReduction
+[aj:701] reduction
+[aj:702] copyFromChannel
+[aj:703] 3693
+[aj:704] configurable
+[aj:705] writable
+[aj:706] 3738
+[aj:707] symbol
+[aj:708] constructor
+[aj:709] 3743
+[aj:710] 3786
+[aj:711] vmp_getActiveText
+[aj:712] span
+[aj:713] ActiveText
+[aj:714] getComputedStyle
+[aj:715] parentNode
+[aj:716] Z|i
+[aj:717] 3818
+[aj:718] hasCalled
+[aj:719] vmp_getNativeText
+[aj:720] vmp_getWebScannerInfo
+[aj:721] readyState
+[aj:722] loading
+[aj:723] bfso_hasCalled
+[aj:724] t|G
+[aj:725] v|A
+[aj:726] V|i
+[aj:727] b|Q
+[aj:728] r|o
+[aj:729] X|w
+[aj:730] L|M
+[aj:731] j|o
+[aj:732] b|g
+[aj:733] 3952
+[aj:734] __assign
+[aj:735] vmp_getPerformance
+[aj:736] getEntriesByType
+[aj:737] navigation
+[aj:738] connectEnd
+[aj:739] connectStart
+[aj:740] domainLookupEnd
+[aj:741] domainLookupStart
+[aj:742] redirectEnd
+[aj:743] redirectStart
+[aj:744] responseStart
+[aj:745] requestStart
+[aj:746] secureConnectionStart
+[aj:747] responseEnd
+[aj:748] fetchStart
+[aj:749] workerStart
+[aj:750] redirectCount
+[aj:751] loadEventEnd
+[aj:752] loadEventStart
+[aj:753] domContentLoadedEventEnd
+[aj:754] domContentLoadedEventStart
+[aj:755] domInteractive
+[aj:756] domComplete
+[aj:757] resource
+[aj:758] find
+[aj:759] initiatorType
+[aj:760] script
+[aj:761] decodedBodySize
+[aj:762] encodedBodySize
+[aj:763] nextHopProtocol
+[aj:764] jhl
+[aj:765] tjh
+[aj:766] totalJSHeapSize
+[aj:767] tcpConnectTime
+[aj:768] toFixed
+[aj:769] dnsTime
+[aj:770] rdTime
+[aj:771] htmlrTime
+[aj:772] tlsTime
+[aj:773] ttfTime
+[aj:774] swtTime
+[aj:775] rdCount
+[aj:776] leTime
+[aj:777] dcleTime
+[aj:778] dcbs
+[aj:779] ecbs
+[aj:780] protocol
+[aj:781] z|k
+[aj:782] 3961
+[aj:783] 3999
+[aj:784] vmp_getDateMetrics
+[aj:785] J|W
+[aj:786] l|O
+[aj:787] R|G
+[aj:788] h|O
+[aj:789] 4094
+[aj:790] getOrientation
+[aj:791] F|a
+[aj:792] 4244
+[aj:793] vmp_getStorageEstimate
+[aj:794] round
+[aj:795] log2
+[aj:796] persisted
+[aj:797] ;u:
+[aj:798] ;p:
+[aj:799] race
+[aj:800] h|e
+[aj:801] 4247
+[aj:802] vmp_getPubKeyClientCapabilities
+[aj:803] PublicKeyCredential
+[aj:804] getClientCapabilities
+[aj:805] n|s
+[aj:806] 4345
+[aj:807] cookie
+[aj:808] substring
+[aj:809] domain
+[aj:810] secure
+[aj:811] ; expires=
+[aj:812] toGMTString
+[aj:813] ; path=
+[aj:814] ; domain=
+[aj:815] ; secure=
+[aj:816] 4579
+[aj:817] key
+[aj:818] 4632
+[aj:819] 4681
+[aj:820] vmp_getWinPropsMetrics
+[aj:821] const me = window\[bindingName\]
+[aj:822] const me = globalThis\[bindingName\]
+[aj:823] ^[a-zA-Z]{3}_[a-zA-Z0-9]{22}_[A-Z]
+[aj:824] cefSharp
+[aj:825] privateRoot
+[aj:826] runHeadlessFixes
+[aj:827] overrideStatic
+[aj:828] playwright
+[aj:829] popupBlockedEvent
+[aj:830] _global
+[aj:831] _sentryDebugIds
+[aj:832] xdsdsdsdsfsffsf
+[aj:833] dadtddffddtttd
+[aj:834] head
+[aj:835] childElementCount
+[aj:836] styleSheets
+[aj:837] includes
+[aj:838] _Array
+[aj:839] _Promise
+[aj:840] _Symbol
+[aj:841] _Proxy
+[aj:842] _Object
+[aj:843] Captcha
+[aj:844] __pw
+[aj:845] __playwright
+[aj:846] kcnt
+[aj:847] kfirst
+[aj:848] klast
+[aj:849] pcnt
+[aj:850] pfirst
+[aj:851] plast
+[aj:852] hcnt
+[aj:853] bcnt
+[aj:854] scnt
+[aj:855] T|E
+[aj:856] L|c
+[aj:857] 4741
+[aj:858] 4827
+[aj:859] vmp_getNotiPermission
+[aj:860] vmp_getNotiKeys
+[aj:861] vmp_getNavNotiPermission
+[aj:862] Notification
+[aj:863] T|o
+[aj:864] permission
+[aj:865] r|E
+[aj:866] permissions
+[aj:867] query
+[aj:868] notifications
+[aj:869] state
+[aj:870] 4909
+[aj:871] vmp_getSupportSerial
+[aj:872] vmp_getSupportHid
+[aj:873] vmp_getSupportFetchLater
+[aj:874] vmp_getSupportCaretRangeFromPoint
+[aj:875] vmp_getPluginsStatus
+[aj:876] vmp_getIsSecureContext
+[aj:877] getClientRects
+[aj:878] _location
+[aj:879] _localStorage
+[aj:880] _sessionStorage
+[aj:881] host
+[aj:882] pathname
+[aj:883] D|s
+[aj:884] oscpu
+[aj:885] N|y
+[aj:886] plugins
+[aj:887] sort
+[aj:888] enabledPlugin
+[aj:889] item
+[aj:890] z|c
+[aj:891] productSub
+[aj:892] n|I
+[aj:893] toSource
+[aj:894] availWidth
+[aj:895] availHeight
+[aj:896] languages
+[aj:897] substr
+[aj:898] l|G
+[aj:899] language
+[aj:900] getTimezoneOffset
+[aj:901] cookieEnabled
+[aj:902] devicePixelRatio
+[aj:903] deviceMemory
+[aj:904] dataset
+[aj:905] fbscriptallow
+[aj:906] cbscriptallow
+[aj:907] acxscriptallow
+[aj:908] wgscriptallow
+[aj:909] fgdvcre
+[aj:910] cpuClass
+[aj:911] B|i
+[aj:912] versions
+[aj:913] node
+[aj:914] version
+[aj:915] N|q
+[aj:916] doNotTrack
+[aj:917] msDoNotTrack
+[aj:918] isSecureContext
+[aj:919] ZRWdS
+[aj:920] key:
+[aj:921] p|y
+[aj:922] Buffer
+[aj:923] emit
+[aj:924] spawn
+[aj:925] fmget_targets
+[aj:926] Cypress
+[aj:927] window.Cypress;
+[aj:928] ubot
+[aj:929] window.ubot=
+[aj:930] z|I
+[aj:931] cssText
+[aj:932] white-space: nowrap;color: transparent;visibility: hidden;position: fixed;padding: 1.3333px;left: 10.5555px;opacity: 0;
+  left: 10.5555px;top: 28.4444px;font-size: 24.5555px;-ms-transform: scale(1.31123) matrix3d(0.373513, -0.0440105, 0, -0.000202461, -0.0851682, 0.616234, 0, -0.00123197, 2.17, 0.21, 1, 0.02, 13.81, 2.11, 0, 0.98);
+  -moz-transform: scale(1.31123) matrix3d(0.373513, -0.0440105, 0, -0.000202461, -0.0851682, 0.616234, 0, -0.00123197, 2.17, 0.21, 1, 0.02, 13.81, 2.11, 0, 0.98);
+  -webkit-transform: scale(1.31123) matrix3d(0.373513, -0.0440105, 0, -0.000202461, -0.0851682, 0.616234, 0, -0.00123197, 2.17, 0.21, 1, 0.02, 13.81, 2.11, 0, 0.98);
+  transform: scale(1.31123) matrix3d(0.373513, -0.0440105, 0, -0.000202461, -0.0851682, 0.616234, 0, -0.00123197, 2.17, 0.21, 1, 0.02, 13.81, 2.11, 0, 0.98);
+  -ms-transform-origin: 0.1111px 0.2222px 0.3333px;-moz-transform-origin: 0.1111px 0.2222px 0.3333px;transform-origin: 0.1111px 0.2222px 0.3333px;
+  
+[aj:933] innerText
+[aj:934] shopeee:Element._original_getClientRects_1790673486451
+[aj:935] V|u
+[aj:936] caretRangeFromPoint
+[aj:937] fetchLater
+[aj:938] hid
+[aj:939] requestDevice
+[aj:940] serial
+[aj:941] requestPort
+[aj:942] 4925
+[aj:943] 4950
+[aj:944] vmp_getCounterValue
+[aj:945] setTimeout
+[aj:946] setInterval
+[aj:947] clearTimeout
+[aj:948] clearInterval
+[aj:949] 4994
+[aj:950] 5317
+[aj:951] getType
+[aj:952] \[object (\w+)\]
+[aj:953] toLowerCase
+[aj:954] ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$_0123456789
+[aj:955] charAt
+[aj:956] ceil
+[aj:957] 5715
+[aj:958] 5885
+[aj:959] CallStack
+[aj:960] ScriptMonitor
+[aj:961] DataCollect
+[aj:962] PicassoModule
+[aj:963] ReportController
+[aj:964] 5901
+[aj:965] 5908
+[aj:966] deviceXDPI
+[aj:967] logicalXDPI
+[aj:968] offsetHeight
+[aj:969]  !important;
+[aj:970] innerHTML
+[aj:971] 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0
+[aj:972] setAttribute
+[aj:973] font: 100px/1em sans-serif; -webkit-text-size-adjust: none; text-size-adjust: none; height: auto; width: 1em; padding: 0; overflow: visible;
+[aj:974] width:0; height:0; overflow:hidden; visibility:hidden; position: absolute;
+[aj:975] className
+[aj:976] mediaQueryBinarySearch
+[aj:977] sheet
+[aj:978] insertRule
+[aj:979] @media 
+[aj:980] {.mediaQueryBinarySearch {text-decoration: underline} }
+[aj:981] textDecoration
+[aj:982] underline
+[aj:983] deleteRule
+[aj:984] min--moz-device-pixel-ratio
+[aj:985] systemXDPI
+[aj:986] msMaxTouchPoints
+[aj:987] opera
+[aj:988] navigator
+[aj:989]  Opera
+[aj:990] HTMLElement
+[aj:991] Constructor
+[aj:992] webkitRequestAnimationFrame
+[aj:993] Opera
+[aj:994] 5913
+[aj:995] vmp_getNavigatorLitter
+[aj:996] dateTimeString
+[aj:997] wirelessDeivces
+[aj:998] mobileNetworkHash
+[aj:999] rnd
+[aj:1000] rml
+[aj:1001] V|a
+[aj:1002] 6067
+[aj:1003] vmp_getPrivacyBrowser
+[aj:1004] brave
+[aj:1005] brave,
+[aj:1006] librewolf,
+[aj:1007] tor,
+[aj:1008] userAgentData
+[aj:1009] brands
+[aj:1010] brand
+[aj:1011] Google Chrome
+[aj:1012] ungoogle-chromium,
+[aj:1013] 6154
+[aj:1014] vmp_getErrorText
+[aj:1015] 6190
+[aj:1016] vmp_getRSACheck
+[aj:1017] requestStorageAccess
+[aj:1018] donoz
+[aj:1019] resolved
+[aj:1020] rejected
+[aj:1021] failed
+[aj:1022] F|q
+[aj:1023] 6231
+[aj:1024] vmp_getLocalStorageKeys
+[aj:1025] localStorageKeys unsupported
+[aj:1026] localStorageKeys invalid key
+[aj:1027] localStorageKeys exceeds Uint16
+[aj:1028] 6305
+[aj:1029] 6323
+[aj:1030] connection
+[aj:1031] mozConnection
+[aj:1032] webkitConnection
+[aj:1033] effectiveType
+[aj:1034] downlink
+[aj:1035] rtt
+[aj:1036] n|U
+[aj:1037] 6355
+[aj:1038] getItem
+[aj:1039] parse
+[aj:1040] clear
+[aj:1041] 6486
+[aj:1042] vmp_getPermissionStates
+[aj:1043] geo
+[aj:1044] geolocation
+[aj:1045] cam
+[aj:1046] camera
+[aj:1047] mic
+[aj:1048] microphone
+[aj:1049] noti
+[aj:1050] clipR
+[aj:1051] clipboard-read
+[aj:1052] clipW
+[aj:1053] clipboard-write
+[aj:1054] midi
+[aj:1055] granted
+[aj:1056] denied
+[aj:1057] prompt
+[aj:1058] T|M
+[aj:1059] 6573
+[aj:1060] vmp_getUsb
+[aj:1061] usb
+[aj:1062] defined
+[aj:1063] r|Q
+[aj:1064] 6597
+[aj:1065] vmp_getBrowserVersionProbe
+[aj:1066] CSS
+[aj:1067] supports
+[aj:1068] InstallTrigger
+[aj:1069] wb:
+[aj:1070] css:
+[aj:1071] color-mix(in srgb,red,blue)
+[aj:1072] 1cap
+[aj:1073] 100dvh
+[aj:1074] selector(:has(a))
+[aj:1075] background-image
+[aj:1076] image(red)
+[aj:1077] background-clip
+[aj:1078] border-area
+[aj:1079] js:
+[aj:1080] findLast
+[aj:1081] structuredClone
+[aj:1082] hasOwn
+[aj:1083] group
+[aj:1084] win:
+[aj:1085] scheduler
+[aj:1086] documentPictureInPicture
+[aj:1087] tan
+[aj:1088] doc:
+[aj:1089] adoptedStyleSheets
+[aj:1090] n|E
+[aj:1091] 6622
+[aj:1092] sans-serif-thin
+[aj:1093] Arabic Typesetting
+[aj:1094] AvantGarde Bk BT
+[aj:1095] Andale Mono
+[aj:1096] Arial
+[aj:1097] Arial Black
+[aj:1098] Arial Hebrew
+[aj:1099] Arial MT
+[aj:1100] Arial Narrow
+[aj:1101] Arial Rounded MT Bold
+[aj:1102] Arial Unicode MS
+[aj:1103] Bitstream Vera Sans Mono
+[aj:1104] Book Antiqua
+[aj:1105] Bookman Old Style
+[aj:1106] Calibri
+[aj:1107] Cambria
+[aj:1108] Cambria Math
+[aj:1109] Century
+[aj:1110] Century Gothic
+[aj:1111] Century Schoolbook
+[aj:1112] Comic Sans
+[aj:1113] Comic Sans MS
+[aj:1114] Consolas
+[aj:1115] Courier
+[aj:1116] Courier New
+[aj:1117] Garamond
+[aj:1118] Geneva
+[aj:1119] Georgia
+[aj:1120] Helvetica
+[aj:1121] Helvetica Neue
+[aj:1122] Impact
+[aj:1123] Lucida Bright
+[aj:1124] Lucida Calligraphy
+[aj:1125] Lucida Console
+[aj:1126] Lucida Fax
+[aj:1127] LUCIDA GRANDE
+[aj:1128] Lucida Handwriting
+[aj:1129] Lucida Sans
+[aj:1130] Lucida Sans Typewriter
+[aj:1131] Lucida Sans Unicode
+[aj:1132] Microsoft Sans Serif
+[aj:1133] Monaco
+[aj:1134] Monotype Corsiva
+[aj:1135] MS Gothic
+[aj:1136] MS Outlook
+[aj:1137] MS PGothic
+[aj:1138] MS Reference Sans Serif
+[aj:1139] MS Sans Serif
+[aj:1140] MS Serif
+[aj:1141] MYRIAD
+[aj:1142] MYRIAD PRO
+[aj:1143] Palatino
+[aj:1144] Palatino Linotype
+[aj:1145] Segoe Print
+[aj:1146] Segoe Script
+[aj:1147] Segoe UI
+[aj:1148] Segoe UI Light
+[aj:1149] Segoe UI Semibold
+[aj:1150] Segoe UI Symbol
+[aj:1151] Tahoma
+[aj:1152] Times
+[aj:1153] Times New Roman
+[aj:1154] Times New Roman PS
+[aj:1155] Trebuchet MS
+[aj:1156] Verdana
+[aj:1157] Wingdings
+[aj:1158] Wingdings 2
+[aj:1159] Wingdings 3
+[aj:1160] Abadi MT Condensed Light
+[aj:1161] Academy Engraved LET
+[aj:1162] ADOBE CASLON PRO
+[aj:1163] Adobe Garamond
+[aj:1164] ADOBE GARAMOND PRO
+[aj:1165] Agency FB
+[aj:1166] Aharoni
+[aj:1167] Albertus Extra Bold
+[aj:1168] Albertus Medium
+[aj:1169] Algerian
+[aj:1170] Amazone BT
+[aj:1171] American Typewriter
+[aj:1172] Baskerville Old Face
+[aj:1173] Batang
+[aj:1174] BatangChe
+[aj:1175] Bauer Bodoni
+[aj:1176] Bauhaus 93
+[aj:1177] Bazooka
+[aj:1178] Bell MT
+[aj:1179] Bembo
+[aj:1180] Benguiat Bk BT
+[aj:1181] Berlin Sans FB
+[aj:1182] Berlin Sans FB Demi
+[aj:1183] Bernard MT Condensed
+[aj:1184] BernhardFashion BT
+[aj:1185] BernhardMod BT
+[aj:1186] Big Caslon
+[aj:1187] BinnerD
+[aj:1188] none font
+[aj:1189] check
+[aj:1190] 1em 
+[aj:1191] N|W
+[aj:1192] 6805
+[aj:1193] vmp_getRand5
+[aj:1194] vmp_getRand4
+[aj:1195] vmp_getRand3
+[aj:1196] vmp_getRand2
+[aj:1197] vmp_getRand1
+[aj:1198] imul
+[aj:1199] getRandomValues
+[aj:1200] msCrypto
+[aj:1201] sqrt
+[aj:1202] 6905
+[aj:1203] 6917
+[aj:1204] vmp_getVisualViewport
+[aj:1205] vmp_getScreenOrientation
+[aj:1206] mozOrientation
+[aj:1207] msOrientation
+[aj:1208] angle
+[aj:1209] F|W
+[aj:1210] visualViewport
+[aj:1211] scale
+[aj:1212] ol:
+[aj:1213] offsetLeft
+[aj:1214] ot:
+[aj:1215] offsetTop
+[aj:1216] pl:
+[aj:1217] pageLeft
+[aj:1218] pt:
+[aj:1219] pageTop
+[aj:1220] X|o
+[aj:1221] 7122
+[aj:1222] Object
+[aj:1223] Map
+[aj:1224] Set
+[aj:1225] Arguments
+[aj:1226] ^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$
+[aj:1227] 7147
+[aj:1228] vmp_getHasFocus
+[aj:1229] hasFocus
+[aj:1230] 7383
+[aj:1231] Cannot call a class as a function
+[aj:1232] 7421
+[aj:1233] vmp_getStackInfo
+[aj:1234] vmp_getSpecialScriptSource
+[aj:1235] vmp_getScriptInfo
+[aj:1236] vmp_get2ndPicassoData
+[aj:1237] vmp_get2ndPicasso
+[aj:1238] f|w
+[aj:1239] l|K
+[aj:1240] h|G
+[aj:1241] 7429
+[aj:1242] vmp_getNativeIntegrity
+[aj:1243] he:
+[aj:1244] spellcheck
+[aj:1245] translate
+[aj:1246] he:x
+[aj:1247] prt:
+[aj:1248] Prototype
+[aj:1249] prt:x
+[aj:1250] sp:
+[aj:1251] sp:x
+[aj:1252] X|Y
+[aj:1253] 7453
+[aj:1254] __spreadArray
+[aj:1255] vmp_extraCanvasMetrics
+[aj:1256] vmp_getCanvasPatternDiff
+[aj:1257] willReadFrequently
+[aj:1258] desynchronized
+[aj:1259] canvas
+[aj:1260] getContext
+[aj:1261] canvas context blocked
+[aj:1262] fillStyle
+[aj:1263] rgba(
+[aj:1264] fillRect
+[aj:1265] getImageData
+[aj:1266] measureText
+[aj:1267] actualBoundingBoxAscent
+[aj:1268] actualBoundingBoxDescent
+[aj:1269] actualBoundingBoxLeft
+[aj:1270] actualBoundingBoxRight
+[aj:1271] fontBoundingBoxAscent
+[aj:1272] fontBoundingBoxDescent
+[aj:1273] #000
+[aj:1274] #fff
+[aj:1275] beginPath
+[aj:1276] arc
+[aj:1277] closePath
+[aj:1278] fill
+[aj:1279] clearRect
+[aj:1280] 7664
+[aj:1281] vmp_getPCOFJCheck
+[aj:1282] parseCreationOptionsFromJSON
+[aj:1283] challenge
+[aj:1284] user
+[aj:1285] dXNlcg
+[aj:1286] displayName
+[aj:1287] pubKeyCredParams
+[aj:1288] public-key
+[aj:1289] alg
+[aj:1290] Y2hhbGxlbmdl
+[aj:1291] Y2hhbGxlbmdl+
+[aj:1292] t|O
+[aj:1293] 7690
+[aj:1294] 7697
+[aj:1295] vmp_getPrototypeLies
+[aj:1296] iPhone|iPad|iPod
+[aj:1297] MacIntel
+[aj:1298] maxTouchPoints
+[aj:1299] Reflect
+[aj:1300] at Function\.toString 
+[aj:1301] at Object\.toString
+[aj:1302] \s(.+)\]
+[aj:1303] ^function\s*([^(]*)\(\s*\)\s*\{\s*\[native code\]\s*\}$
+[aj:1304] TypeError
+[aj:1305] exec
+[aj:1306] ^\s+|\s+$
+[aj:1307] get 
+[aj:1308] set 
+[aj:1309] spawnErr
+[aj:1310] withStack
+[aj:1311] final
+[aj:1312] timeout
+[aj:1313] callee
+[aj:1314] lied
+[aj:1315] truth
+[aj:1316] incompatible Proxy$
+[aj:1317] Proxy.add
+[aj:1318] scope
+[aj:1319] apiFunction
+[aj:1320] obj
+[aj:1321] semanticConfig
+[aj:1322] accessorKind
+[aj:1323] method
+[aj:1324] arityKey
+[aj:1325] lieTypes
+[aj:1326] ^(get|set)\s
+[aj:1327] Function
+[aj:1328] failed undefined properties
+[aj:1329] ^(screen|navigator)$
+[aj:1330] failed descriptor
+[aj:1331] arguments
+[aj:1332] caller
+[aj:1333] failed toString
+[aj:1334] failed proxy brand leak
+[aj:1335] failed strict mode trap
+[aj:1336] nonConstructable
+[aj:1337] failed class extends error
+[aj:1338] construct
+[aj:1339] objectToStringError
+[aj:1340] failed object toString error
+[aj:1341] deepProbe
+[aj:1342] failed at too much recursion error
+[aj:1343] failed at chain cycle __proto__ error
+[aj:1344] receiver
+[aj:1345] isGetter
+[aj:1346] failed receiver check
+[aj:1347] args
+[aj:1348] arityInstance
+[aj:1349] failed getter arity invariance
+[aj:1350] expectedTag
+[aj:1351] failed result object tag
+[aj:1352] some
+[aj:1353] __truncated
+[aj:1354] arityNamespace
+[aj:1355] uaData
+[aj:1356] uaDataPlatform
+[aj:1357] ignore
+[aj:1358] semantic
+[aj:1359] getter 
+[aj:1360] setter 
+[aj:1361] toUpperCase
+[aj:1362] failed descriptor.value undefined
+[aj:1363] failed prototype test execution
+[aj:1364] Navigator
+[aj:1365] onLine
+[aj:1366] bind
+[aj:1367] Function.toString
+[aj:1368] toDataURL
+[aj:1369] fillText
+[aj:1370] font
+[aj:1371] offsetWidth
+[aj:1372] getParameter
+[aj:1373] createOffer
+[aj:1374] createDataChannel
+[aj:1375] RTCPeerConnection
+[aj:1376] webkitRTCPeerConnection
+[aj:1377] mozRTCPeerConnection
+[aj:1378] [object BatteryManager]
+[aj:1379] audio/ogg
+[aj:1380] NavigatorUAData
+[aj:1381] srcdoc
+[aj:1382] bfso_protoTrueValue
+[aj:1383] T|c
+[aj:1384] P|Q
+[aj:1385] 7736
+[aj:1386] 7752
+[aj:1387] Invalid attempt to destructure non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[aj:1388] 7756
+[aj:1389] tigerkin
+[aj:1390] zhanfubrowser
+[aj:1391] shopeeplus
+[aj:1392] palavraChaves
+[aj:1393] shopeepro
+[aj:1394] saibaMais
+[aj:1395] botaoDownload
+[aj:1396] btnDownload_bdb1f717
+[aj:1397] beiAnalysis
+[aj:1398] ziniao
+[aj:1399] shield__preventEvents
+[aj:1400] main-linkfox-extension-cn
+[aj:1401] matchAll
+[aj:1402] \s+
+[aj:1403] 8128
+[aj:1404] xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
+[aj:1405] [xy]
+[aj:1406] randomUUID
+[aj:1407] 8315
+[aj:1408] vmp_getIframeData
+[aj:1409] [;:]
+[aj:1410] every
+[aj:1411] false
+[aj:1412] bfso_iframeConsist
+[aj:1413] <h1>hello world</h1>
+[aj:1414] decodeURI
+[aj:1415] self
+[aj:1416] clientInformation
+[aj:1417] wd:
+[aj:1418] dm:
+[aj:1419] ua:
+[aj:1420] lg:
+[aj:1421] nav:x
+[aj:1422] Math
+[aj:1423] sin
+[aj:1424] cos
+[aj:1425] SQRT2
+[aj:1426] atan2
+[aj:1427] postMessage
+[aj:1428] mimeTypes
+[aj:1429] Z|G
+[aj:1430] N|i
+[aj:1431] X|g
+[aj:1432] l|u
+[aj:1433] P|E
+[aj:1434] h|K
+[aj:1435] X|k
+[aj:1436] 8388
+[aj:1437] vmp_getWebglDepthRange
+[aj:1438] DEPTH_RANGE
+[aj:1439] depthRange
+[aj:1440] R|W
+[aj:1441] 8558
+[aj:1442] isEmptyValue
+[aj:1443] Boolean Number String Function Array Date RegExp Object Error Undefined Null
+[aj:1444] [object 
+[aj:1445] 8605
+[aj:1446] vmp_getGlobalPrivacyControl
+[aj:1447] globalPrivacyControl
+[aj:1448] 8673
+[aj:1449] (pointer:coarse)
+[aj:1450] 9045
+[aj:1451] toPrimitive
+[aj:1452] @@toPrimitive must return a primitive value.
+[aj:1453] 9114
+[aj:1454] vmp_getDocBodyVis
+[aj:1455] vmp_getDocVis
+[aj:1456] vmp_getScrollBarVis
+[aj:1457] vmp_getPersonalBarVis
+[aj:1458] vmp_getToolBarVis
+[aj:1459] vmp_getLocationBarVis
+[aj:1460] locationbar
+[aj:1461] locationbar is not found
+[aj:1462] visible
+[aj:1463] toolbar
+[aj:1464] toolbar is not found
+[aj:1465] personalbar
+[aj:1466] personalbar is not found
+[aj:1467] scrollbars
+[aj:1468] scrollbars is not found
+[aj:1469] visibilityState
+[aj:1470] document.body is not found
+[aj:1471] checkVisibility
+[aj:1472] document.body.checkVisibility is not found
+[aj:1473] checkOpacity
+[aj:1474] checkVisibilityCSS
+[aj:1475] 9291
+[aj:1476] 9371
+[aj:1477] MAX_CHUNK_SIZE
+[aj:1478] api/v4/pdp/get_pc
+[aj:1479] api/v2/authentication/qrcode_login
+[aj:1480] api/v4/account/login_by_otp
+[aj:1481] api/v4/basic/login_by_email_otp_token
+[aj:1482] api/v4/account/login_by_password
+[aj:1483] api/v4/account/login_by_whatsapp
+[aj:1484] api/v4/authentication/login_by_facebook
+[aj:1485] api/v4/authentication/login_by_google
+[aj:1486] api/v4/authentication/login_by_apple
+[aj:1487] api/v4/account/basic/login_ivs
+[aj:1488] api/v4/account/management/reset_password_init
+[aj:1489] api/v4/account/management/reset_password_commit
+[aj:1490] api/v4/account/management/check_unbind_phone
+[aj:1491] api/v4/account/management/check_unbind_phone_by_vcode
+[aj:1492] api/v4/account/signup_by_otp
+[aj:1493] api/v4/basic/signup_by_email_otp_token
+[aj:1494] api/v4/account/management/change_phone_init
+[aj:1495] api/v4/account/management/change_phone_commit
+[aj:1496] api/v4/account/management/change_phone_init_v2
+[aj:1497] api/v4/account/management/change_phone_commit_v2
+[aj:1498] api/v4/account/management/add_phone_commit
+[aj:1499] api/v4/account/management/delete_account_init
+[aj:1500] api/v4/account/management/delete_account_commit
+[aj:1501] api/v4/account/management/change_email_init
+[aj:1502] api/v4/account/management/change_email_commit
+[aj:1503] api/v4/account/management/check_change_password
+[aj:1504] api/v4/account/management/change_password
+[aj:1505] api/v4/account/management/add_phone_init
+[aj:1506] api/v4/anti_fraud/ivs/seamoney-face-match/verify
+[aj:1507] api/v4/anti_fraud/ivs/shopee-face-match/verify
+[aj:1508] api/v4/anti_fraud/ivs/token/verify
+[aj:1509] api/v4/seller/local_wallet/get_enhanced_security_mode_status
+[aj:1510] api/v4/seller/local_wallet/get_payment_password_status
+[aj:1511] api/v4/seller/local_wallet/check_set_payment_password_eligibility
+[aj:1512] api/v4/seller/local_wallet/get_payment_password_rules
+[aj:1513] api/v4/seller/local_wallet/set_payment_password
+[aj:1514] api/v4/seller/local_wallet/get_wallet_status
+[aj:1515] api/v4/seller/local_wallet/calculate_user_withdrawal_fee
+[aj:1516] api/v4/seller/local_wallet/get_withdrawal_block_info
+[aj:1517] api/v4/seller/local_wallet/get_withdrawal_estimation
+[aj:1518] api/v4/seller/local_wallet/create_withdrawal
+[aj:1519] api/v3/spba/bind_bank_account
+[aj:1520] beeshop_new/PC/api/v1/bank_accounts/add
+[aj:1521] beeshop_new/RW/api/v1/bank_accounts/add
+[aj:1522] 9715
+[aj:1523] vmp_getTitle
+[aj:1524] title
+[aj:1525] L|Q
+[aj:1526] 9731
+[aj:1527] vmp_getNavConsist
+[aj:1528] buildID
+[aj:1529] vd:
+[aj:1530] ac:
+[aj:1531] appCodeName
+[aj:1532] av:
+[aj:1533] appVersion
+[aj:1534] pdf:
+[aj:1535] pdfViewerEnabled
+[aj:1536] java:
+[aj:1537] javaEnabled
+[aj:1538] on:
+[aj:1539] ll:
+[aj:1540] mt:
+[aj:1541] bid:
+[aj:1542] z|g
+[aj:1543] 9904
+[aj:1544] DEFAULT_SCRIPT_SOURCE
+[aj:1545] MAX_SCRIPT_COUNT
+[aj:1546] (googletagmanager\.com|google-analytics\.com|deo\.shopeemobile\.com|(?:seller\.)?shopee\.\w+)
+[aj:1547] total
+[aj:1548] crc
+[aj:1549] src
+[aj:1550] 9993
+[aj:1551] 1.0.0
+[aj:1552] toStringTag
+[aj:1553] Module
+[aj:1554] c3afc8f3ea750750c3392588f9a777372e6a8afea7f42681cf398ee5bb6665bc
+
+=== table ae() — 1037 strings ===
+[ae:0] split
+[ae:1] break
+[ae:2] try
+[ae:3] now
+[ae:4] new
+[ae:5] case
+[ae:6] this
+[ae:7] switch
+[ae:8] export
+[ae:9] continue
+[ae:10] function
+[ae:11] else
+[ae:12] slice
+[ae:13] finally
+[ae:14] var
+[ae:15] for
+[ae:16] throw
+[ae:17] catch
+[ae:18] default
+[ae:19] while
+[ae:20] return
+[ae:21] subarray
+[ae:22] symbol
+[ae:23] fromCharCode
+[ae:24] pow
+[ae:25] debugger
+[ae:26] (function(ﱞ73){throw new Error('unk code: '+ﱞ73);});
+[ae:27] (function(ﱞ54,ﱞ14,ﱞ85){var ﱞ29='';for(var ﱞ33=0;ﱞ33<ﱞ85;ﱞ33++){ﱞ29+=ﱞ54[ﱞ14++]+(ﱞ33===ﱞ85-1?'':',');}return ﱞ29;});
+[ae:28] (function(ﱞ13,ﱞ62,ﱞ41,ﱞ30,ﱞ20){var ﱞ8=0,ﱞ71='';for(;ﱞ8<ﱞ62;ﱞ8++){ﱞ71+=ﱞ13()+(ﱞ41===667?':'+ﱞ13():!!ﱞ41?ﱞ8===ﱞ62-1?ﱞ30:ﱞ20:'');}return ﱞ71;});
+[ae:29] (function(ﱞ17,ﱞ1,ﱞ0,ﱞ32){for(ﱞ1='',ﱞ0=0;ﱞ0<ﱞ17.length;ﱞ0++){ﱞ32=ﱞ17[ﱞ0]^ﱞ0;ﱞ1+=String.fromCharCode(ﱞ32);}return ﱞ1;});
+[ae:30] (function(ﱞ3,ﱞ97,ﱞ44,ﱞ36,ﱞ33,ﱞ26,ﱞ91){for(ﱞ97=3*ﱞ3,ﱞ44=new Array(ﱞ97),ﱞ36=new Array(ﱞ3),ﱞ33=0;ﱞ33<ﱞ97;ﱞ33++)ﱞ44[ﱞ33]=ﱞ33+1;for(ﱞ33=0;ﱞ33<ﱞ3;ﱞ33++)ﱞ26=ﱞ33+Math.floor(Math.random()*(ﱞ97-ﱞ33)),ﱞ91=ﱞ44[ﱞ33],ﱞ44[ﱞ33]=ﱞ44[ﱞ26],ﱞ44[ﱞ26]=ﱞ91,ﱞ36[ﱞ33]=ﱞ44[ﱞ33];return ﱞ36;});
+[ae:31] iterator
+[ae:32] constructor
+[ae:33] c3afc8f3ea750750c3392588f9a777372e6a8afea7f42681cf398ee5bb6665bc
+[ae:34] 286
+[ae:35] defineProperty
+[ae:36] __esModule
+[ae:37] value
+[ae:38] _win
+[ae:39] Object
+[ae:40] 698
+[ae:41] vmp_getConsumeTime
+[ae:42] vmp_getCollectTime
+[ae:43] vmp_getDateTime
+[ae:44] vmp_getPerformanceTime
+[ae:45] Math
+[ae:46] performance
+[ae:47] Date
+[ae:48] stringify
+[ae:49] replace
+[ae:50] N|S
+[ae:51] 1106
+[ae:52] _document
+[ae:53] isEmptyValue
+[ae:54] isTrusted
+[ae:55] removeEvent
+[ae:56] click
+[ae:57] addEvent
+[ae:58] Promise
+[ae:59] Array
+[ae:60] RegExp
+[ae:61] Set
+[ae:62] 1388
+[ae:63] vmp_getTlvEncodeErrors
+[ae:64] vmp_pushTlvEncodeError
+[ae:65] vmp_clearTlvEncodeErrors
+[ae:66] vmp_createTLV
+[ae:67] message
+[ae:68] [|;\n\r\t]
+[ae:69] concat
+[ae:70] join
+[ae:71] X|Y
+[ae:72] LengthTypeUint8
+[ae:73] set
+[ae:74] LengthTypeTagLength
+[ae:75] LengthTypeUint16
+[ae:76] LengthTypeUint32
+[ae:77] error3
+[ae:78] getType
+[ae:79] undefined
+[ae:80] null
+[ae:81] uint8array
+[ae:82] BSI8_ID
+[ae:83] uint8ArrayToDecimalString
+[ae:84] from
+[ae:85] bigint
+[ae:86] toString
+[ae:87] string
+[ae:88] vmp_truncateUtf8String
+[ae:89] byteLength
+[ae:90] missing default field value
+[ae:91] 1553
+[ae:92] __importDefault
+[ae:93] MutationObserver
+[ae:94] Error
+[ae:95] JSON
+[ae:96] console
+[ae:97] fetch
+[ae:98] instance
+[ae:99] 1711
+[ae:100] __assign
+[ae:101] hasOwnProperty
+[ae:102] call
+[ae:103] __createBinding
+[ae:104] create
+[ae:105] getOwnPropertyDescriptor
+[ae:106] get
+[ae:107] writable
+[ae:108] configurable
+[ae:109] enumerable
+[ae:110] __setModuleDefault
+[ae:111] __importStar
+[ae:112] getOwnPropertyNames
+[ae:113] __awaiter
+[ae:114] next
+[ae:115] done
+[ae:116] then
+[ae:117] __generator
+[ae:118] label
+[ae:119] sent
+[ae:120] trys
+[ae:121] ops
+[ae:122] Generator is already executing.
+[ae:123] useLvMap
+[ae:124] getDefaultFieldValue
+[ae:125] vmp_resolveAllFields
+[ae:126] vmp_getDfpData
+[ae:127] BODY_FIELDS_INDEX_TO_KEY
+[ae:128] BODY_FILED_SLOT_OBJ
+[ae:129] BODY_FIELDS_PROTOCAL_OBJ
+[ae:130] vmp_createLV
+[ae:131] resolve
+[ae:132] vmp_getAudioPrinting
+[ae:133] vmp_getWWData
+[ae:134] vmp_getUserAgentEnhance
+[ae:135] vmp_getWebrtcData
+[ae:136] vmp_getPrototypeLies
+[ae:137] vmp_getWebglFp
+[ae:138] vmp_getResolution
+[ae:139] vmp_getIframeData
+[ae:140] vmp_extraCanvasMetrics
+[ae:141] vmp_getDateMetrics
+[ae:142] vmp_getWinPropsMetrics
+[ae:143] session
+[ae:144] R|a
+[ae:145] _localStorage
+[ae:146] getItem
+[ae:147] af-ext-msg
+[ae:148] removeItem
+[ae:149] z|s
+[ae:150] parseInt
+[ae:151] Uint8Array
+[ae:152] atob
+[ae:153] ArrayBuffer
+[ae:154] DataView
+[ae:155] btoa
+[ae:156] 1926
+[ae:157] urlBase
+[ae:158] domainMap
+[ae:159] FIELD_TYPE_FLOAT
+[ae:160] FIELD_TYPE_DOUBLE
+[ae:161] FIELD_TYPE_BOOL
+[ae:162] FIELD_TYPE_NUM_ARR
+[ae:163] FIELD_TYPE_ARR
+[ae:164] FIELD_TYPE_STR
+[ae:165] FIELD_TYPE_NUM
+[ae:166] BSI4_ID
+[ae:167] BSI2_ID
+[ae:168] BSI1_ID
+[ae:169] TEST
+[ae:170] df.infra.test.shopee.sg
+[ae:171] UAT
+[ae:172] df.infra.uat.shopee.sg
+[ae:173] STAGING
+[ae:174] NOLIVE
+[ae:175] df.infra.shopee.sg
+[ae:176] df.infra.shopee.com
+[ae:177] df.infra.shopee.cn
+[ae:178] df.infra.shopee.com.my
+[ae:179] df.infra.sz.shopee.co.id
+[ae:180] df.infra.sz.shopee.vn
+[ae:181] df.infra.sz.shopee.co.th
+[ae:182] df.infra.shopee.tw
+[ae:183] df.infra.shopee.com.br
+[ae:184] df.infra.shopee.ph
+[ae:185] df.infra.shopee.com.mx
+[ae:186] df.infra.shopee.in
+[ae:187] df.infra.shopee.cl
+[ae:188] df.infra.shopee.com.co
+[ae:189] df.infra.shopee.pl
+[ae:190] df.infra.shopee.fr
+[ae:191] df.infra.shopee.es
+[ae:192] df.infra.shopee.com.ar
+[ae:193] df.infra.shopeekh.com
+[ae:194] df.infra.shopee.com.la
+[ae:195] df.infra.shopee.com.mm
+[ae:196] /v2/shpsec/web/report
+[ae:197] 1983
+[ae:198] history_hook
+[ae:199] map
+[ae:200] not function
+[ae:201] __sap_wrapped
+[ae:202] __sentry_original__
+[ae:203] indexOf
+[ae:204] _MDAP_DATA_ID_
+[ae:205] mdap_web_sdk
+[ae:206] min
+[ae:207] source
+[ae:208] __monitor_sap_fetch
+[ae:209] text
+[ae:210] D|c
+[ae:211] 2228
+[ae:212] 2642
+[ae:213] _navigator
+[ae:214] charCodeAt
+[ae:215] imul
+[ae:216] speechSynthesis
+[ae:217] doGetOsByUa
+[ae:218] doCheckBroswerBySide
+[ae:219] Opera|Edge
+[ae:220] test
+[ae:221] Chrome
+[ae:222] Windows Phone
+[ae:223] Android
+[ae:224] iOS
+[ae:225] some
+[ae:226] ^google
+[ae:227] name
+[ae:228] voiceURI
+[ae:229] lang
+[ae:230] sort
+[ae:231] filter
+[ae:232] dl:
+[ae:233] vh:
+[ae:234] df:
+[ae:235] empty
+[ae:236] getVoices
+[ae:237] N|C
+[ae:238] init
+[ae:239] [p_]{3}[uy]p[tep]{4}er[ae_v]{4}lua[noti]{4}
+[ae:240] eval\sat\sevaluate|UtilityScript\.
+[ae:241] apply\.(css\sselector|xpath|(partial\s)?link\stext)
+[ae:242] @phantomjs
+[ae:243] pptr:evaluate
+[ae:244] ptr
+[ae:245] stack
+[ae:246] puppeteer(
+[ae:247] selenium(
+[ae:248] \(.*?\)
+[ae:249] getElementById
+[ae:250] getElementsByTagName
+[ae:251] querySelector
+[ae:252] querySelectorAll
+[ae:253] evaluate
+[ae:254] [\r\n\s]
+[ae:255] substring
+[ae:256] (){[nativecode]}
+[ae:257] addLink
+[ae:258] pushState
+[ae:259] replaceState
+[ae:260] window\.addLink
+[ae:261] history
+[ae:262] ajax_req_count_sec_auto
+[ae:263] __originalSetInterval
+[ae:264] add_even_listener_count_sec_auto
+[ae:265] dom_listener_func_sec_auto
+[ae:266] window.
+[ae:267] onclick
+[ae:268] onchange
+[ae:269] onblur
+[ae:270] ondblclick
+[ae:271] onfocus
+[ae:272] onkeydown
+[ae:273] onkeypress
+[ae:274] onkeyup
+[ae:275] onload
+[ae:276] onmousedown
+[ae:277] onmousemove
+[ae:278] onmouseout
+[ae:279] onmouseover
+[ae:280] onmouseup
+[ae:281] onreset
+[ae:282] onresize
+[ae:283] onselect
+[ae:284] onsubmit
+[ae:285] onunload
+[ae:286] onabort
+[ae:287] onerror
+[ae:288] dom0_listener_hook
+[ae:289] dom0_listener_hook(
+[ae:290] hit
+[ae:291] attributes
+[ae:292] childList
+[ae:293] subtree
+[ae:294] imacros-highlight-div
+[ae:295] type
+[ae:296] addedNodes
+[ae:297] observe
+[ae:298] disconnect
+[ae:299] permissions
+[ae:300] query
+[ae:301] not exists
+[ae:302] ɵɵɵɵnewHandler
+[ae:303] ɵɵɵɵPromise
+[ae:304] __playwright_global_listeners_check__
+[ae:305] addEventListener
+[ae:306] objectToInspect
+[ae:307] result
+[ae:308] objectToInspect;
+[ae:309] match
+[ae:310] .+_.+_(Array|Promise|Symbol)
+[ae:311] cdc_adoQpoasnfa76pfcZLmcfl_Object
+[ae:312] cdc_adoQpoasnfa76pfcZLmcfl_Proxy
+[ae:313] ret_nodes
+[ae:314] hero-replay
+[ae:315] __phantomas_options
+[ae:316] __phantomas
+[ae:317] allSettled
+[ae:318] status
+[ae:319] fulfilled
+[ae:320] 2652
+[ae:321] Map
+[ae:322] String
+[ae:323] 2700
+[ae:324] vmp_getOsByUa
+[ae:325] userAgent
+[ae:326] ontouchstart
+[ae:327] createEvent
+[ae:328] TouchEvent
+[ae:329] maxTouchPoints
+[ae:330] msMaxTouchPoints
+[ae:331] textContent
+[ae:332] windows phone
+[ae:333] windows|win32|win64|wow32|wow64
+[ae:334] Windows
+[ae:335] ios|iphone|ipad|ipod|iwatch|(Macintosh(.*?) FxiOS(.*?)\/)
+[ae:336] macintosh|macintel|mac|mac_powerpc
+[ae:337] ip[honead]{2,4}\b(?:.*os ([\w]+) like mac|; opera)
+[ae:338] exec
+[ae:339] Mac
+[ae:340] android|adr
+[ae:341] x11|cros|linux
+[ae:342] Linux
+[ae:343] Other
+[ae:344] 2757
+[ae:345] vmp_getWebScannerInfo
+[ae:346] injection
+[ae:347] Document
+[ae:348] eval
+[ae:349] _arachni_js_namespace
+[ae:350] _arachni_js_namespaceDOMMonitor
+[ae:351] _arachni_js_namespacetainttracer
+[ae:352] _arachni_js_namespace_taint_tracer
+[ae:353] javascript.browser.arachni
+[ae:354] scripts
+[ae:355] src
+[ae:356] 3442
+[ae:357] getClientCheckData
+[ae:358] getShortToken
+[ae:359] setSdkConfig
+[ae:360] getLongToken
+[ae:361] getSapUUID
+[ae:362] getDegradedData
+[ae:363] setResponseText
+[ae:364] 3475
+[ae:365] false
+[ae:366] 
+      const gl = new OffscreenCanvas(1, 1).getContext('webgl');
+      const debugInfo = gl?.getExtension('WEBGL_debug_renderer_info');
+      self.postMessage({
+        type: 'navigator_info',
+        data: {
+          wwUa: self.navigator?.userAgent || '',
+          wwPf: self.navigator?.platform || '',
+          wwMob: self.navigator?.userAgentData ? String(self.navigator.userAgentData.mobile) : 'NA',
+          wwLgs: JSON.stringify(self.navigator?.languages) || '',
+          wwOnL: (self.navigator?.onLine || false).toString(),
+          wwHwc: (self.navigator?.hardwareConcurrency || 0).toString(),
+          wwGlvd:
+            gl && debugInfo?.UNMASKED_VENDOR_WEBGL
+              ? gl.getParameter(debugInfo?.UNMASKED_VENDOR_WEBGL)
+              : 'NA',
+          wwGlrd:
+            gl && debugInfo?.UNMASKED_RENDERER_WEBGL
+              ? gl.getParameter(debugInfo?.UNMASKED_RENDERER_WEBGL)
+              : 'NA',
+        },
+      });
+    
+[ae:367] createObjectURL
+[ae:368] application/javascript
+[ae:369] terminate
+[ae:370] revokeObjectURL
+[ae:371] onmessage
+[ae:372] data
+[ae:373] navigator_info
+[ae:374] wwUa
+[ae:375] wwPf
+[ae:376] wwMob
+[ae:377] wwLgs
+[ae:378] wwOnL
+[ae:379] wwHwc
+[ae:380] wwGlvd
+[ae:381] wwGlrd
+[ae:382] error
+[ae:383] 4097
+[ae:384] globalThis
+[ae:385] stackTraceLimit
+[ae:386] vmp_jsdomDetectV2
+[ae:387] L|I
+[ae:388] _DF
+[ae:389] createElement
+[ae:390] div
+[ae:391] hidden
+[ae:392] body
+[ae:393] appendChild
+[ae:394] removeChild
+[ae:395] setInterval
+[ae:396] setTimeout
+[ae:397] number
+[ae:398] getElementsByName
+[ae:399] __proto__
+[ae:400] [object WindowProperties]
+[ae:401] all
+[ae:402] img
+[ae:403] script
+[ae:404] link
+[ae:405] style
+[ae:406] button
+[ae:407] 4365
+[ae:408] entry
+[ae:409] initSdk
+[ae:410] 4892
+[ae:411] 5074
+[ae:412] vmp_getTouchSupport
+[ae:413] vmp_getTouchPoints
+[ae:414] 5172
+[ae:415] _location
+[ae:416] 5187
+[ae:417] 5239
+[ae:418] doGetBrowser
+[ae:419] bfso_uaChBrands
+[ae:420] navigator
+[ae:421] userAgentData
+[ae:422] mobile
+[ae:423] model
+[ae:424] platform
+[ae:425] platformVersion
+[ae:426] uaFullVersion
+[ae:427] fullVersionList
+[ae:428] b:|f:
+[ae:429] isArray
+[ae:430] brand
+[ae:431] version
+[ae:432] ovf
+[ae:433] bad
+[ae:434] getHighEntropyValues
+[ae:435] brands
+[ae:436] |f:
+[ae:437] firefox|iceweasel|fxios
+[ae:438] Firefox
+[ae:439] opr|opera|opios|coast|opt\/
+[ae:440] Opera
+[ae:441] \sedg\/|(edg([ea]|ios))
+[ae:442] Edge
+[ae:443] chrome|crios|crmo
+[ae:444] safari|applewebkit
+[ae:445] Safari
+[ae:446] trident|compatible|msie
+[ae:447] Internet Explorer
+[ae:448] (Chrome|Firefox|Safari|Opera|Edge|MSIE|Trident|UCBrowser|SamsungBrowser)[/\s]?([\d.]+)
+[ae:449] (Intel Mac OS X|PPC Mac OS X|Windows NT|Android|CPU (iPhone )?OS|Ubuntu|Linux|x86_64|armv\d+)
+[ae:450] (Mobile|Tablet|iPad|iPhone|Android|Windows Phone|Macintosh|Linux)
+[ae:451] (Gecko|WebKit|Blink|Trident)
+[ae:452] opr
+[ae:453] addons
+[ae:454] opera
+[ae:455] documentMode
+[ae:456] StyleMedia
+[ae:457] chrome
+[ae:458] webstore
+[ae:459] runtime
+[ae:460] app
+[ae:461] HTMLElement
+[ae:462] [object SafariRemoteNotification]
+[ae:463] safari
+[ae:464] pushNotification
+[ae:465] 6162
+[ae:466] XMLHttpRequest
+[ae:467] Number
+[ae:468] getInstance
+[ae:469] 6578
+[ae:470] 6810
+[ae:471] vmp_checkGetterHook
+[ae:472] vmp_getNativeText
+[ae:473] vmp_gethText
+[ae:474] webdriver
+[ae:475] navigator native hook;
+[ae:476] document
+[ae:477] document native hook;
+[ae:478] webdriver native hook;
+[ae:479] plugins
+[ae:480] plugins native hook;
+[ae:481] screen
+[ae:482] height
+[ae:483] screenHeight native hook;
+[ae:484] getParameter
+[ae:485] webglParameter native hook;
+[ae:486] WebGL2RenderingContext.prototype.getParameter
+[ae:487] WebGLRenderingContext.prototype.getParameter
+[ae:488] WebGL2RenderingContext.prototype.bufferData
+[ae:489] WebGLRenderingContext.prototype.bufferData
+[ae:490] window.speechSynthesis.getVoices
+[ae:491] XMLHttpRequest.prototype.send
+[ae:492] XMLHttpRequest.prototype.open
+[ae:493] window.fetch
+[ae:494] window.EventSource
+[ae:495] window.close
+[ae:496] window.open
+[ae:497] Element.prototype.addEventListener
+[ae:498] HTMLFormElement.prototype.reset
+[ae:499] webkitResolveLocalFileSystemURL.toString
+[ae:500] chrome.runtime.sendMessage
+[ae:501] chrome.runtime.connect
+[ae:502] document.cookie
+[ae:503] HTMLElement.prototype.onclick
+[ae:504] HTMLElement.prototype.onchange
+[ae:505] HTMLElement.prototype.onblur
+[ae:506] HTMLElement.prototype.ondblclick
+[ae:507] HTMLElement.prototype.onfocus
+[ae:508] HTMLElement.prototype.onkeydown
+[ae:509] HTMLElement.prototype.onkeypress
+[ae:510] HTMLElement.prototype.onkeyup
+[ae:511] HTMLElement.prototype.onload
+[ae:512] HTMLElement.prototype.onmousedown
+[ae:513] HTMLElement.prototype.onmousemove
+[ae:514] HTMLElement.prototype.onmouseout
+[ae:515] HTMLElement.prototype.onmouseover
+[ae:516] HTMLElement.prototype.onmouseup
+[ae:517] HTMLElement.prototype.onreset
+[ae:518] HTMLElement.prototype.onresize
+[ae:519] HTMLElement.prototype.onselect
+[ae:520] HTMLElement.prototype.onsubmit
+[ae:521] HTMLElement.prototype.onunload
+[ae:522] HTMLElement.prototype.onabort
+[ae:523] HTMLElement.prototype.onerror
+[ae:524] window
+[ae:525] __lookupGetter__
+[ae:526] hookGetter
+[ae:527] __lookupSetter__
+[ae:528] hookSetter
+[ae:529] reduce
+[ae:530] 6850
+[ae:531] return /\w+\s?\(\){\S*.*\S*}/
+[ae:532] 7249
+[ae:533] PAYLOAD_FIELDS_INDEX_TO_KEY
+[ae:534] PAYLOAD_FILED_SLOT_OBJ
+[ae:535] PAYLOAD_FIELDS_PROTOCAL_OBJ
+[ae:536] delDowngradeField
+[ae:537] BODY_SYNC_FIELDS
+[ae:538] BODY_ASYNC_FIELDS
+[ae:539] BODY_REPORT_FIELDS
+[ae:540] values
+[ae:541] 3000
+[ae:542] 3279
+[ae:543] 3070
+[ae:544] 2183
+[ae:545] 3586
+[ae:546] 1412
+[ae:547] 2634
+[ae:548] 1956
+[ae:549] 4196
+[ae:550] 9402
+[ae:551] 7473
+[ae:552] 7199
+[ae:553] 9507
+[ae:554] 1669
+[ae:555] 3886
+[ae:556] 6386
+[ae:557] 1163
+[ae:558] 9355
+[ae:559] 4293
+[ae:560] 3972
+[ae:561] 5476
+[ae:562] 2916
+[ae:563] 1216
+[ae:564] 4977
+[ae:565] 3024
+[ae:566] 6323
+[ae:567] 4505
+[ae:568] 8096
+[ae:569] 4067
+[ae:570] 9543
+[ae:571] 1470
+[ae:572] 4854
+[ae:573] 8776
+[ae:574] 9487
+[ae:575] 2521
+[ae:576] 5976
+[ae:577] 6096
+[ae:578] 5060
+[ae:579] 4811
+[ae:580] 4460
+[ae:581] 2089
+[ae:582] 3041
+[ae:583] 5490
+[ae:584] 3043
+[ae:585] 3044
+[ae:586] 8128
+[ae:587] 3509
+[ae:588] 6064
+[ae:589] 1056
+[ae:590] 9359
+[ae:591] 3165
+[ae:592] 2915
+[ae:593] 7424
+[ae:594] 2903
+[ae:595] 5772
+[ae:596] 4457
+[ae:597] 2076
+[ae:598] 6833
+[ae:599] 6158
+[ae:600] 2084
+[ae:601] 2102
+[ae:602] 4695
+[ae:603] 1440
+[ae:604] 9522
+[ae:605] 2918
+[ae:606] 2706
+[ae:607] 4847
+[ae:608] 4919
+[ae:609] 4016
+[ae:610] 1966
+[ae:611] 6715
+[ae:612] 3071
+[ae:613] 2747
+[ae:614] 4572
+[ae:615] 7466
+[ae:616] 1960
+[ae:617] 2677
+[ae:618] 9190
+[ae:619] 5857
+[ae:620] 9352
+[ae:621] 8258
+[ae:622] 7460
+[ae:623] 7642
+[ae:624] 7153
+[ae:625] 3084
+[ae:626] 8442
+[ae:627] 8646
+[ae:628] 5820
+[ae:629] 2663
+[ae:630] 6865
+[ae:631] 3746
+[ae:632] 2433
+[ae:633] 7187
+[ae:634] 5920
+[ae:635] 6477
+[ae:636] 5586
+[ae:637] 1750
+[ae:638] 3942
+[ae:639] 6169
+[ae:640] 4065
+[ae:641] 5147
+[ae:642] 2626
+[ae:643] 6897
+[ae:644] 8174
+[ae:645] 3104
+[ae:646] 3859
+[ae:647] 1741
+[ae:648] 3383
+[ae:649] 2393
+[ae:650] 8988
+[ae:651] 3110
+[ae:652] 5556
+[ae:653] 1058
+[ae:654] 7356
+[ae:655] 9017
+[ae:656] 4728
+[ae:657] 3407
+[ae:658] 1107
+[ae:659] 1000
+[ae:660] 1245
+[ae:661] 8335
+[ae:662] 8830
+[ae:663] 6466
+[ae:664] 5225
+[ae:665] 6484
+[ae:666] 7028
+[ae:667] 3559
+[ae:668] 2017
+[ae:669] 2388
+[ae:670] 5589
+[ae:671] 7581
+[ae:672] 6025
+[ae:673] 5664
+[ae:674] 3249
+[ae:675] 3076
+[ae:676] 4189
+[ae:677] 4072
+[ae:678] 4636
+[ae:679] 4741
+[ae:680] 2564
+[ae:681] 8443
+[ae:682] 4390
+[ae:683] 7953
+[ae:684] 3713
+[ae:685] 5358
+[ae:686] 8751
+[ae:687] 7302
+[ae:688] 1897
+[ae:689] 3953
+[ae:690] 8895
+[ae:691] 3410
+[ae:692] 4269
+[ae:693] 7649
+[ae:694] 5018
+[ae:695] 5180
+[ae:696] 6470
+[ae:697] 5434
+[ae:698] 7748
+[ae:699] 8417
+[ae:700] 5089
+[ae:701] 4885
+[ae:702] 3791
+[ae:703] 8198
+[ae:704] 5722
+[ae:705] 2807
+[ae:706] 2374
+[ae:707] 1862
+[ae:708] 8118
+[ae:709] 2576
+[ae:710] 1886
+[ae:711] 4534
+[ae:712] 3140
+[ae:713] 7029
+[ae:714] 3142
+[ae:715] 5588
+[ae:716] 3601
+[ae:717] 9982
+[ae:718] 4751
+[ae:719] 9118
+[ae:720] 3002
+[ae:721] 3618
+[ae:722] 3915
+[ae:723] 2788
+[ae:724] 9168
+[ae:725] 8488
+[ae:726] 8894
+[ae:727] 4032
+[ae:728] 4137
+[ae:729] 7015
+[ae:730] 7563
+[ae:731] bfso_permissionStates
+[ae:732] 7590
+[ae:733] 9860
+[ae:734] 1531
+[ae:735] 7043
+[ae:736] 6744
+[ae:737] 1784
+[ae:738] 1079
+[ae:739] 4502
+[ae:740] 9585
+[ae:741] 3350
+[ae:742] 4027
+[ae:743] 5701
+[ae:744] 3719
+[ae:745] 9524
+[ae:746] 5435
+[ae:747] 4616
+[ae:748] 2038
+[ae:749] bfso_intlInfo
+[ae:750] 5654
+[ae:751] bfso_screenOrientation
+[ae:752] 4435
+[ae:753] bfso_visualViewport
+[ae:754] 2703
+[ae:755] bfso_mediaFeaturePrefs
+[ae:756] 6820
+[ae:757] bfso_storageEstimate
+[ae:758] 2268
+[ae:759] bfso_tlvEncodeErr
+[ae:760] 5001
+[ae:761] bfso_iframeConsist
+[ae:762] 5448
+[ae:763] bfso_browserVersionProbe
+[ae:764] 8375
+[ae:765] bfso_activeText
+[ae:766] 7896
+[ae:767] bfso_navConsist
+[ae:768] 6354
+[ae:769] bfso_nativeIntegrity
+[ae:770] 9961
+[ae:771] 8626
+[ae:772] bfso_webrtcConsist
+[ae:773] 1401
+[ae:774] bfso_webglDepthRange
+[ae:775] 8388
+[ae:776] bfso_webdriverEvidence
+[ae:777] 6496
+[ae:778] bfso_jsEngineShape
+[ae:779] 5763
+[ae:780] bfso_protoTrueValue
+[ae:781] 2900
+[ae:782] bfso_audioStereoDiff
+[ae:783] 2210
+[ae:784] bfso_localStorageKeys
+[ae:785] 8714
+[ae:786] includes
+[ae:787] 7689
+[ae:788] vmp_getJsEngineShape
+[ae:789] fileName
+[ae:790] lineNumber
+[ae:791] columnNumber
+[ae:792] line
+[ae:793] column
+[ae:794] sourceURL
+[ae:795] user
+[ae:796] arguments
+[ae:797] caller
+[ae:798] shape
+[ae:799] toPrimitive
+[ae:800] left
+[ae:801] lastMatch
+[ae:802] 7805
+[ae:803] 7997
+[ae:804] debug
+[ae:805] 8231
+[ae:806] 8321
+[ae:807] vmp_getPicassoTimeArray
+[ae:808] vmp_getPicassoHashArray
+[ae:809] vmp_getCanvasID3PNGData
+[ae:810] vmp_getCanvasID3
+[ae:811] vmp_getWebglVendorAndRenderer
+[ae:812] canvas
+[ae:813] getContext
+[ae:814] webgl
+[ae:815] experimental-webgl
+[ae:816] getExtension
+[ae:817] WEBGL_debug_renderer_info
+[ae:818] webGLInc
+[ae:819] UNMASKED_VENDOR_WEBGL
+[ae:820] webGLGpu
+[ae:821] UNMASKED_RENDERER_WEBGL
+[ae:822] emptyWebgl
+[ae:823] clearColor
+[ae:824] enable
+[ae:825] DEPTH_TEST
+[ae:826] depthFunc
+[ae:827] LEQUAL
+[ae:828] clear
+[ae:829] COLOR_BUFFER_BIT
+[ae:830] DEPTH_BUFFER_BIT
+[ae:831] EXT_texture_filter_anisotropic
+[ae:832] WEBKIT_EXT_texture_filter_anisotropic
+[ae:833] MOZ_EXT_texture_filter_anisotropic
+[ae:834] MAX_TEXTURE_MAX_ANISOTROPY_EXT
+[ae:835] attribute vec2 attrVertex;varying vec2 varyinTexCoordinate;uniform vec2 uniformOffset;void main(){varyinTexCoordinate=attrVertex+uniformOffset;gl_Position=vec4(attrVertex,0,1);}
+[ae:836] createBuffer
+[ae:837] bindBuffer
+[ae:838] ARRAY_BUFFER
+[ae:839] bufferData
+[ae:840] STATIC_DRAW
+[ae:841] itemSize
+[ae:842] numItems
+[ae:843] createProgram
+[ae:844] createShader
+[ae:845] VERTEX_SHADER
+[ae:846] shaderSource
+[ae:847] compileShader
+[ae:848] attachShader
+[ae:849] linkProgram
+[ae:850] enableVertexAttribArray
+[ae:851] vertexPosArray
+[ae:852] uniform2f
+[ae:853] offsetUniform
+[ae:854] toDataURL
+[ae:855] webgl 
+[ae:856] extensions:
+[ae:857] getSupportedExtensions
+[ae:858] aliased line width range:
+[ae:859] ALIASED_LINE_WIDTH_RANGE
+[ae:860] aliased point size range:
+[ae:861] ALIASED_POINT_SIZE_RANGE
+[ae:862] alpha bits:
+[ae:863] ALPHA_BITS
+[ae:864] antialiasing:
+[ae:865] getContextAttributes
+[ae:866] antialias
+[ae:867] yes
+[ae:868] blue bits:
+[ae:869] BLUE_BITS
+[ae:870] depth bits:
+[ae:871] DEPTH_BITS
+[ae:872] green bits:
+[ae:873] GREEN_BITS
+[ae:874] max anisotropy:
+[ae:875] max combined texture image units:
+[ae:876] MAX_COMBINED_TEXTURE_IMAGE_UNITS
+[ae:877] max cube map texture size:
+[ae:878] MAX_CUBE_MAP_TEXTURE_SIZE
+[ae:879] max fragment uniform vectors:
+[ae:880] MAX_FRAGMENT_UNIFORM_VECTORS
+[ae:881] max render buffer size:
+[ae:882] MAX_RENDERBUFFER_SIZE
+[ae:883] max texture image units:
+[ae:884] MAX_TEXTURE_IMAGE_UNITS
+[ae:885] max texture size:
+[ae:886] MAX_TEXTURE_SIZE
+[ae:887] max varying vectors:
+[ae:888] MAX_VARYING_VECTORS
+[ae:889] max vertex attribs:
+[ae:890] MAX_VERTEX_ATTRIBS
+[ae:891] max vertex texture image units:
+[ae:892] MAX_VERTEX_TEXTURE_IMAGE_UNITS
+[ae:893] max vertex uniform vectors:
+[ae:894] MAX_VERTEX_UNIFORM_VECTORS
+[ae:895] max viewport dims:
+[ae:896] MAX_VIEWPORT_DIMS
+[ae:897] red bits:
+[ae:898] RED_BITS
+[ae:899] renderer:
+[ae:900] RENDERER
+[ae:901] shading language version:
+[ae:902] SHADING_LANGUAGE_VERSION
+[ae:903] stencil bits:
+[ae:904] STENCIL_BITS
+[ae:905] vendor:
+[ae:906] VENDOR
+[ae:907] version:
+[ae:908] VERSION
+[ae:909] unmasked vendor:
+[ae:910] unmasked renderer:
+[ae:911] useProgram
+[ae:912] getAttribLocation
+[ae:913] getUniformLocation
+[ae:914] drawArrays
+[ae:915] getShaderPrecisionFormat
+[ae:916] gl.
+[ae:917] gl.canvas.toDataURL
+[ae:918] vertex shader 
+[ae:919] fragment shader
+[ae:920]  float precision
+[ae:921]  int precision
+[ae:922] high
+[ae:923] medium
+[ae:924] low
+[ae:925]  rangeMin:
+[ae:926]  rangeMax:
+[ae:927] precision
+[ae:928] rangeMin
+[ae:929] rangeMax
+[ae:930] FRAGMENT_SHADER
+[ae:931] HIGH_FLOAT
+[ae:932] MEDIUM_FLOAT
+[ae:933] LOW_FLOAT
+[ae:934] HIGH_INT
+[ae:935] MEDIUM_INT
+[ae:936] LOW_INT
+[ae:937] canvasID
+[ae:938] Not supported
+[ae:939] width
+[ae:940] display
+[ae:941] inline
+[ae:942] rect
+[ae:943] textBaseline
+[ae:944] alphabetic
+[ae:945] fillStyle
+[ae:946] #f60
+[ae:947] fillRect
+[ae:948] #069
+[ae:949] font
+[ae:950] 11pt no-real-font-123
+[ae:951] fillText
+[ae:952] Cwm fjordbank glyphs vext quiz, 😃
+[ae:953] rgba(102, 204, 0, 0.7)
+[ae:954] 18pt Arial
+[ae:955] globalCompositeOperation
+[ae:956] multiply
+[ae:957] rgb(255,0,255)
+[ae:958] beginPath
+[ae:959] arc
+[ae:960] closePath
+[ae:961] fill
+[ae:962] rgb(0,255,255)
+[ae:963] rgb(255,255,0)
+[ae:964] evenodd
+[ae:965] canvas.
+[ae:966] ctx.
+[ae:967] image/png
+[ae:968] area
+[ae:969] offsetParameter
+[ae:970] fontSizeFactor
+[ae:971] multiplier
+[ae:972] maxShadowBlur
+[ae:973] 8660
+[ae:974] clearTimeout
+[ae:975] 8926
+[ae:976] _sapid
+[ae:977] 9420
+[ae:978] PUB_KEY
+[ae:979] c944ad54224a0673101bcffb2a6ac28ca2d22edfbb32ff930e
+[ae:980] 1000000000000000000000000000000000000000000000000000000000000001
+[ae:981] 1000000000000000000000000000000000000000000000000000000000000010
+[ae:982] 1000000000000000000000000000000000000000000000000000000000000011
+[ae:983] 9637
+[ae:984] setIsSpecialCn
+[ae:985] setDisableWebRtc
+[ae:986] ((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])
+[ae:987] ((([0-9A-Fa-f]{1,4}:){7}([0-9A-Fa-f]{1,4}|:))|(([0-9A-Fa-f]{1,4}:){6}(:[0-9A-Fa-f]{1,4}|((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3})|:))|(([0-9A-Fa-f]{1,4}:){5}(((:[0-9A-Fa-f]{1,4}){1,2})|:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3})|:))|(([0-9A-Fa-f]{1,4}:){4}(((:[0-9A-Fa-f]{1,4}){1,3})|((:[0-9A-Fa-f]{1,4})?:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3}))|:))|(([0-9A-Fa-f]{1,4}:){3}(((:[0-9A-Fa-f]{1,4}){1,4})|((:[0-9A-Fa-f]{1,4}){0,2}:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3}))|:))|(([0-9A-Fa-f]{1,4}:){2}(((:[0-9A-Fa-f]{1,4}){1,5})|((:[0-9A-Fa-f]{1,4}){0,3}:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3}))|:))|(([0-9A-Fa-f]{1,4}:){1}(((:[0-9A-Fa-f]{1,4}){1,6})|((:[0-9A-Fa-f]{1,4}){0,4}:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3}))|:))|(:(((:[0-9A-Fa-f]{1,4}){1,7})|((:[0-9A-Fa-f]{1,4}){0,5}:((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)(\.(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)){3}))|:)))
+[ae:988] RTCPeerConnection
+[ae:989] mozRTCPeerConnection
+[ae:990] webkitRTCPeerConnection
+[ae:991] close
+[ae:992] onicecandidate
+[ae:993] urls
+[ae:994] stun:stun.l.google.com:19302
+[ae:995] iceServers
+[ae:996] createDataChannel
+[ae:997] fake_data_channel
+[ae:998] createOffer
+[ae:999] setLocalDescription
+[ae:1000] candidate
+[ae:1001] start
+[ae:1002] stop
+[ae:1003] createConnection
+[ae:1004] createStunRequest
+[ae:1005] handleCandidates
+[ae:1006] Custom timeout cannot be under 100 milliseconds.
+[ae:1007] No IP addresses were found.
+[ae:1008] flat
+[ae:1009] ^(192\.168\.|169\.254\.|10\.|172\.(1[6-9]|2\d|3[01]))
+[ae:1010] private
+[ae:1011] IPv4
+[ae:1012] IPv6
+[ae:1013] public
+[ae:1014] 0.0.0.0
+[ae:1015] ::0
+[ae:1016] toLowerCase
+[ae:1017] has
+[ae:1018] -private-IPv4
+[ae:1019] -IPv6
+[ae:1020] -public-IPv4
+[ae:1021] api:x;ad:x;tj:x;sd:x;gs:x
+[ae:1022] api:0;ad:x;tj:x;sd:x;gs:x
+[ae:1023] localDescription
+[ae:1024] sdp
+[ae:1025] api:
+[ae:1026] ad:
+[ae:1027] tj:
+[ae:1028] sd:
+[ae:1029] gs:
+[ae:1030] getStats
+[ae:1031] local-candidate
+[ae:1032] address
+[ae:1033] toJSON
+[ae:1034] X|c
+[ae:1035] T|U
+[ae:1036] reject

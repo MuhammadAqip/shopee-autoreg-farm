@@ -1,0 +1,38 @@
+{
+  "_comment": "Contoh konfigurasi. Copy ke config.json lalu isi nilai asli. config.json masuk .gitignore.",
+  "CAP_SOLVER": "sadcaptcha",
+  "CAP_API_KEY": "isi-license-key-sadcaptcha",
+  "PROXY_FILE": "proxies.txt",
+  "OTP_MODE": "manual",
+  "OTP_FILE": "otp.txt",
+  "HEADLESS": true,
+  "MAX_CONCURRENCY": 2,
+  "DELAY_MIN_S": 600,
+  "DELAY_MAX_S": 1800,
+  "CACHE_DB": "captcha_cache.db",
+  "STORE_DB": "core/store.db",
+  "PANEL_PORT": 8088,
+  "SADCAPTCHA": {
+    "base_url": "https://www.sadcaptcha.com/api/v1",
+    "min_trajectory_rows": 12,
+    "skip_cap": 3,
+    "max_keys_per_request": 3
+  },
+  "GESTURE": {
+    "scatter_block_px": 30,
+    "gesture_amp_u": 1.5,
+    "gesture_passes": 4,
+    "gesture_pace_ms": 2,
+    "swing_safe_px": 12,
+    "overshoot_px": 15,
+    "pause_before_nudge_ms": [900, 2100],
+    "pause_before_release_ms": [750, 1450],
+    "press_settle_ms": 150,
+    "sample_settle_ms": 20
+  },
+  "REPUTATION": {
+    "max_limit_per_phone": 2,
+    "prefix_min_samples": 3,
+    "prefix_block_rate": 0.6
+  }
+}

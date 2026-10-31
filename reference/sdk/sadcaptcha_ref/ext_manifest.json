@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "sad x captcha",
+  "description": "mysterious extension",
+  "version": "3.0.2",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "logo_icon_black_bg.png"
+  },
+  "permissions": [
+    "debugger",
+    "storage",
+    "alarms"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+		"*://*.shopee.com/*",
+        "*://*.shopee.tw/*",
+        "*://*.shopee.co.th/*",
+        "*://*.shopee.co.id/*",
+        "*://*.shopee.com.my/*",
+        "*://*.shopee.sg/*",
+        "*://*.shopee.ph/*",
+        "*://*.shopee.vn/*",
+        "*://*.shopee.com.br/*",
+        "*://*.shopee.mx/*",
+        "*://*.shopee.cl/*",
+        "*://*.shopee.co/*",
+        "*://*.shopee.pl/*"
+      ],
+      "all_frames": false,
+      "js": [
+        "script.js"
+      ]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "greg@sadcaptcha.com"
+    }
+  }
+}

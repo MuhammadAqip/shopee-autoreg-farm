@@ -1,0 +1,42 @@
+{
+ "users": {
+  "7341376283": {
+   "channel": "sms",
+   "pwmode": "auto",
+   "retry": 20,
+   "custom_pw": "",
+   "auto_proxy": true,
+   "credit_alert": 5,
+   "backup_target": "local"
+  }
+ },
+ "stats": {
+  "total_attempts": 14,
+  "total_success": 3,
+  "total_fail": 8,
+  "today": "2026-10-19",
+  "today_success": 0,
+  "today_fail": 0,
+  "credits_spent": 0,
+  "cache_hits": 0
+ },
+ "allowed_ids": [],
+ "custom_proxies": [],
+ "history": {
+  "2026-10-15": {
+   "success": 2,
+   "fail": 1,
+   "cache_hit": 0
+  },
+  "2026-10-16": {
+   "success": 1,
+   "fail": 6,
+   "cache_hit": 0
+  },
+  "2026-10-17": {
+   "success": 0,
+   "fail": 1,
+   "cache_hit": 0
+  }
+ }
+}

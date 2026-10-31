@@ -1,0 +1,11 @@
+{
+ "0xa": "vmp_getResolution",
+ "0xc": "devicePxPerCssPx",
+ "0x15": "toString",
+ "0x18": "slice",
+ "0x19": "getOwnPropertyDescriptor",
+ "0x1a": "__proto__",
+ "0x1b": "hardwareConcurrency",
+ "0x1c": "get",
+ "0x1e": "P|I"
+}

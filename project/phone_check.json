@@ -1,0 +1,40 @@
+{
+ "6287876125616": {
+  "error": 0,
+  "fresh": null,
+  "registered": null,
+  "channels": [
+   3,
+   2,
+   1
+  ],
+  "preferred": 3,
+  "need_captcha": true,
+  "dom": "lompat ke konten utama\nDaftar\nButuh bantuan?\nDaftar\nBERIKUTNYA\nTetap Login\nATAU\n"
+ },
+ "6285353984860": {
+  "error": 0,
+  "fresh": null,
+  "registered": null,
+  "channels": [
+   3,
+   2,
+   1
+  ],
+  "preferred": 3,
+  "need_captcha": true,
+  "dom": "lompat ke konten utama\nDaftar\nButuh bantuan?\nDaftar\nBERIKUTNYA\nTetap Login\nATAU\n"
+ },
+ "6285602739981": {
+  "error": 0,
+  "fresh": true,
+  "registered": false,
+  "channels": [
+   3,
+   2,
+   1
+  ],
+  "preferred": 3,
+  "need_captcha": true
+ }
+}

@@ -1,0 +1,345 @@
+{
+  "otp_calls": [
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/otp/get_settings_v2",
+      "s": 200,
+      "post": "{\"operation\":8,\"encrypted_phone\":\"\",\"phone\":\"6281234567890\",\"supported_channels\":[1,2,3,6,0,5],\"support_session\":true,\"client_identifier\":{\"security_device_fingerprint\":\"AbAmEzrJirbQRGGWx8/Tig==|I9h2AKXoD9kk1XhC8oaRLLLCpI+CEHlO/JT5cCTDDRqMe74Xrkybm49l4zdndsG/h7ip3FyppVSlVwukzbfp3WIB|3ZIylJae3wbkJgu2|08|3\"}}",
+      "body": "{\"error\":0,\"data\":{\"need_login\":false,\"need_captcha\":true,\"captcha_scene\":\"signup\",\"masked_phone\":\"\",\"preferred_channel\":3,\"available_channels\":[3,2,1],\"hidden_available_channels\":[2],\"skip_channel_confirmation\":false,\"flow_name\":\"default_flow\",\"session_info\":{\"seed\":\"703eb58b-a253-4ad1-bac0-26752b8b5612\",\"remaining_resend_cooldown_sec\":0,\"remaining_switch_cooldown_sec\":0},\"captcha_app_key\":\"User.RW\",\"captcha_id\":\"\"}}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "3cd8b044d4b975fc",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    }
+  ],
+  "all_api": [
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/platform/get_ft_v2",
+      "s": 200,
+      "post": "",
+      "body": "{\"bff_meta\":null,\"data\":[{\"name\":\"02394f74\",\"toggle\":true},{\"name\":\"283b2cb0\",\"toggle\":true},{\"name\":\"ff4562ea\",\"toggle\":false},{\"name\":\"71f660eb\",\"toggle\":true},{\"name\":\"a2712800\",\"toggle\":false},{\"name\":\"33aa3e7f\",\"toggle\":true},{\"name\":\"66d49261\",\"toggle\":true},{\"name\":\"815b5c4f\",\"toggle\":true},{\"name\":\"4e7f9c77\",\"toggle\":true},{\"name\":\"283c9ed7\",\"toggle\":true},{\"name\":\"a907e341\",\"toggle\":false},{\"name\":\"b7ca24e3\",\"toggle\":true},{\"name\":\"46f3a30e\",\"toggle\":true},{\"name\":\"4fe06360\",\"toggle\":false},{\"name\":\"2a5e9399\",\"toggle\":false},{\"name\":\"df9d0126\",\"toggle\":false},{\"name\":\"f9539570\",\"toggl",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "9ac659bae896078b",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/basic/get_account_info",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "9551b0ba576507b9",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/subaccount",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "92473931cb7d8487",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/basic/get_payment_info",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "684e0a0866d550cc",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/web/subcart",
+      "s": 200,
+      "post": "{\"data\":\"qwAPRigAMHghthV/hNy5l4ZN9Gh129/NMkpq/E4S24712N+flC2WoakFIXFbFcXcLwSChN0UvgMAh/viXNUnTfV8mLz1xFOGsaZoLOJmXBWGGOOTjKFUd6+DKkM+UqAUDZ9Jh1wqigNRVaE2r7vWtu1mthNVA+bO/+tVj/ga1FPiAeZvJgSkMRcPfuR43RsrHLUTcR0Tkj3RnAHgbbm+7W3yyuaNx6zPp+KCIdfWZVm0+EXBlMCmWy8AGvSaccvMwa/cPR6vf7VOmgtavKnp2wumZIUTClnOoERQ2hue3kV/eGfR308090W7MgpQClO+V6smjxpf9HbLkpe+RuabxNmLMkFHOugL52Dz3EHpU8uUWUzWmSOPrO24uvN45D/PiJD9HRTUI3FFTus8mMa/yopFBeMnnapcwqbmvoitZLj7vjLBFwm+iXN6unPuklLyJbOx+FEZUUYvbNBGJok851q9x/kW1qOCfJocqbxm43qyew4+Nn65zx22Bxi7FaLNZVaYpP3tZkC0qvoDDQUFlQx259dThf+Tc+uzi5ifhwHeMhUg6sEoLpjf0K3lpwTiV3GTzNIF3QHbPrc",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "82a850d83e24c7be",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/account/get_banner_text",
+      "s": 200,
+      "post": "{\"banner_name\":\"new_user_signup_page\"}",
+      "body": "{\"bff_meta\":null,\"error\":0,\"error_msg\":null,\"data\":{\"text\":\"Daftar \\u0026 nikmati berbagai promo menarik!\"}}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "bb5747ab7cd4f54e",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/abtest/traffic/get_web_experiments",
+      "s": 200,
+      "post": "{\"meta\":{\"country\":\"ID\",\"device_fingerprint\":\"Izi5hJ2RVO0ktR0CnGLnBoXAoHFnaAdb\"},\"filter_data\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"4\"}],\"biz_name\":\"marketplace\",\"scene_keys\":[\"User_Account\"]}",
+      "body": "{\"data\":[{\"version\":2696964,\"dimension\":\"deviceFingerprint\",\"dimension_value\":\"Izi5hJ2RVO0ktR0CnGLnBoXAoHFnaAdb\",\"feature_map\":[],\"experiments\":[{\"exp_name\":\"seller_standalone_login_page_reduce_loading_time\",\"group_name\":\"standalone_seller_page_experiment_group\",\"parameter\":\"experiment_new_page\",\"group_id\":363646,\"hot_update\":null},{\"exp_name\":\"extend_web_expiry\",\"group_name\":\"treatment\",\"parameter\":\"treatment\",\"group_id\":638419,\"hot_update\":null},{\"exp_name\":\"Live_Testing_Web\",\"group_name\":\"Experiment\",\"parameter\":\"live_testing_web_exp\",\"group_id\":79423,\"hot_update\":null},{\"exp_name\":\"delink_",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "1723aecb20972f9b",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/experiment/config",
+      "s": 200,
+      "post": "{\"env\":\"live\",\"locale\":\"ID\",\"scene\":\"shopee\",\"href\":\"https://shopee.co.id/buyer/signup\"}",
+      "body": "{\"is_success\":true,\"url\":\"https://deo.shopeemobile.com/shopee/dynamic-experiment/browser-signals/bundle.fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12.js\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "2ebba4b705a0cd52",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/experiment/performance",
+      "s": 200,
+      "post": "{\"base\":{\"href\":\"https://shopee.co.id/buyer/signup\",\"hashVersion\":\"fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12\",\"collectionStartTimestamp\":1791973837806,\"npmCollectEndTimestamp\":1791973837844,\"cdnLoadStartTimestamp\":1791973837918,\"cdnCollectEndTimestamp\":1791973838052},\"experiment\":{\"webglSupported\":true,\"webglVersion\":\"WebGL 1.0\",\"webglRenderHashBefore\":\"687da50850c97775377ee28b644d1011\",\"error_field\":[],\"error_text\":[],\"devicePixelRatio\":1,\"colorDepth\":24,\"hardwareConcurrency\":2,\"maxTouchPoints\":0,\"localStorageAvailable\":true,\"sessionStorageAvailable\":true,\"indexedDBAvai",
+      "body": "{\"is_success\":true}",
+      "hdrs": {
+        "af-ac-enc-dat": "2b96166089b9d7cc",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/abtest/traffic/get_web_experiments",
+      "s": 200,
+      "post": "{\"meta\":{\"country\":\"ID\",\"device_fingerprint\":\"Izi5hJ2RVO0ktR0CnGLnBoXAoHFnaAdb\"},\"filter_data\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"4\"}],\"biz_name\":\"marketplace\",\"scene_keys\":[\"User_Identity\"]}",
+      "body": "{\"data\":[],\"error\":null,\"error_msg\":null,\"debug\":null,\"retcode\":0}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "d8c87d67955b1402",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/web/subcart",
+      "s": 200,
+      "post": "",
+      "body": "<bin>",
+      "hdrs": {
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/platform/get_ft_v2",
+      "s": 200,
+      "post": "",
+      "body": "{\"bff_meta\":null,\"data\":[{\"name\":\"02394f74\",\"toggle\":true},{\"name\":\"283b2cb0\",\"toggle\":true},{\"name\":\"ff4562ea\",\"toggle\":false},{\"name\":\"71f660eb\",\"toggle\":true},{\"name\":\"a2712800\",\"toggle\":false},{\"name\":\"33aa3e7f\",\"toggle\":true},{\"name\":\"66d49261\",\"toggle\":true},{\"name\":\"815b5c4f\",\"toggle\":true},{\"name\":\"4e7f9c77\",\"toggle\":true},{\"name\":\"283c9ed7\",\"toggle\":true},{\"name\":\"a907e341\",\"toggle\":false},{\"name\":\"b7ca24e3\",\"toggle\":true},{\"name\":\"46f3a30e\",\"toggle\":true},{\"name\":\"4fe06360\",\"toggle\":false},{\"name\":\"2a5e9399\",\"toggle\":false},{\"name\":\"df9d0126\",\"toggle\":false},{\"name\":\"f9539570\",\"toggl",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "85d6afe230b6b914",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/basic/get_account_info",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "48f3f48787b929d1",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/subaccount",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "290139e2d8d41d38",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/web/subcart",
+      "s": 200,
+      "post": "{\"data\":\"eAAPRigAMJolL8zC1ZjXohc7aukeiibDeD03DR3t0pko/kt1KLqM4gGaW1461/VmH1XckB2bNQOAHj6EDqAbrJb9430kHDvX5QHsq7UZ/zM2+EPA+SwqUTBRf2fb6UoiKUi/nKtj8yva0EcR0byoQPmlpU9sZ8q2R+2mb/fqTXhKALdcre61G9ZMOZ9BGBzQHdwaEPx73j+BZS1T+T3+YXOp/VUyrdgAjSIS+/fap3+UWQ593FpGo/bm3zqDL8VBXqqAQ7XYjF/XGlqZRRCv9aBszNzWGhIyaJeEPto4S0xC9Jg2edRU40J3XwIMbDPKXDrKZSPhqc8jffjhcHNyl4qFaYoCkaQM0C3fnmeJvkHOaUg/T5lyfaHQq3/EzNSudWQG9l/cyMvYe2rnbAeiqizPI4CZmJtcyNBAqUa0qDadPxC6nUiNTgCQ5UJvL+EXyiWYUrDh0D636hxLi05UTDb7scJdlcGZbtnmctsFoxA1ia7Q5n9ROA5m2f0XcUKhnzTucW3p78oiiS7PO8m/CKr5PGSpwcNcWJ0p9PU4tL/w9a2OLyNtqhobVBhEkXvOW2OwGUiZNSSXJoL",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "8c37a11a1fa2f2dd",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/basic/get_payment_info",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":null,\"error\":19,\"error_msg\":\"Failed to authenticate\"}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "bfe05f2e4f792a36",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/account/get_banner_text",
+      "s": 200,
+      "post": "{\"banner_name\":\"new_user_signup_page\"}",
+      "body": "{\"bff_meta\":null,\"error\":0,\"error_msg\":null,\"data\":{\"text\":\"Daftar \\u0026 nikmati berbagai promo menarik!\"}}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "205cb76bfe3a253c",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/abtest/traffic/get_web_experiments",
+      "s": 200,
+      "post": "{\"meta\":{\"country\":\"ID\",\"device_fingerprint\":\"Izi5hJ2RVO0ktR0CnGLnBoXAoHFnaAdb\"},\"filter_data\":[{\"name\":\"platform\",\"value_type\":\"INT\",\"value\":\"4\"}],\"biz_name\":\"marketplace\",\"scene_keys\":[\"User_Account\"]}",
+      "body": "{\"data\":[{\"version\":2696963,\"dimension\":\"deviceFingerprint\",\"dimension_value\":\"Izi5hJ2RVO0ktR0CnGLnBoXAoHFnaAdb\",\"feature_map\":[],\"experiments\":[{\"exp_name\":\"seller_standalone_login_page_reduce_loading_time\",\"group_name\":\"standalone_seller_page_experiment_group\",\"parameter\":\"experiment_new_page\",\"group_id\":363646,\"hot_update\":null},{\"exp_name\":\"extend_web_expiry\",\"group_name\":\"treatment\",\"parameter\":\"treatment\",\"group_id\":638419,\"hot_update\":null},{\"exp_name\":\"Live_Testing_Web\",\"group_name\":\"Experiment\",\"parameter\":\"live_testing_web_exp\",\"group_id\":79423,\"hot_update\":null},{\"exp_name\":\"delink_",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "220664a02a22aa92",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/experiment/config",
+      "s": 200,
+      "post": "{\"env\":\"live\",\"locale\":\"ID\",\"scene\":\"shopee\",\"href\":\"https://shopee.co.id/buyer/signup\"}",
+      "body": "{\"is_success\":true,\"url\":\"https://deo.shopeemobile.com/shopee/dynamic-experiment/browser-signals/bundle.fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12.js\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "ab2ca8c0b5f200a0",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/experiment/performance",
+      "s": 200,
+      "post": "{\"base\":{\"href\":\"https://shopee.co.id/buyer/signup\",\"hashVersion\":\"fa90a8c0ee0ac35e6f7272cc73ae1bac08607861c7bccfc40658810cac222c12\",\"collectionStartTimestamp\":1791973848579,\"npmCollectEndTimestamp\":1791973848604,\"cdnLoadStartTimestamp\":1791973848660,\"cdnCollectEndTimestamp\":1791973848772},\"experiment\":{\"webglSupported\":true,\"webglVersion\":\"WebGL 1.0\",\"webglRenderHashBefore\":\"687da50850c97775377ee28b644d1011\",\"error_field\":[],\"error_text\":[],\"devicePixelRatio\":1,\"colorDepth\":24,\"hardwareConcurrency\":2,\"maxTouchPoints\":0,\"localStorageAvailable\":true,\"sessionStorageAvailable\":true,\"indexedDBAvai",
+      "body": "{\"is_success\":true}",
+      "hdrs": {
+        "af-ac-enc-dat": "52a6940f9e4a56e6",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "GET",
+      "u": "https://shopee.co.id/api/v4/account/get_tos_urls",
+      "s": 200,
+      "post": "",
+      "body": "{\"data\":{\"terms_of_service_url\":\"https://help.shopee.co.id/portal/article/71187\",\"privacy_policy_url\":\"https://help.shopee.co.id/portal/article/71188\"}}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "4bf4c31eab2cd1ef",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/web/subcart",
+      "s": 200,
+      "post": "{\"data\":\"zwAPRigCMKvCtw5Cnk/9P5lNPyi+yurQYWy/Dzfi1lx2m5kU7yqdq+rspcEY50MUbbBYk0uYmiNeDeyl1tVx596L97zIcnV6FLmAlkVQYGmM6Mes0hng7V3Z+iaqOWz+X4zyTeL0NH0qbSCXI42OqSwLjFDFzoeceaaFGJGZnaNDrbKKQr/p5mVka6KJuNw9HbnwGIwmlo1xQRsIPzuL9iq2OtgLKcYA/rNo5RRwqI8a8Y44p8UiQwx9JzpeFBtsmZDq8yRKj7r/6V1PVBAJ61bLXRAPRyhrkn9LD3u0VfkBN3+iGY516Z8+GZlk2eWj/p1L43lXQsUQ7kD159MELErIdw5ok7nbx+ebv0wT2mizuuWazPoS/1/4yYC1rn5p/6uYToxNIvvkCFat050EO9lF5dsk0iY18IAFsm/bgTpOPv9khQvvNx7xoExRxc3Mwd/gs0nWwv6s3sOZGXDm0rMAH045Iupqp+zUQZ/nU0RgN0Ws/jKsXjCeGIFUSCVPEO8KHUjIpApBSbnnzOhaFBulRSgxkUJ/T6aM9ti4W9gJtkvlW8uEctBGNAS3lTFCem+ID+I5yBT2/km",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "20941863991e5059",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/otp/get_settings_v2",
+      "s": 200,
+      "post": "{\"operation\":8,\"encrypted_phone\":\"\",\"phone\":\"6281234567890\",\"supported_channels\":[1,2,3,6,0,5],\"support_session\":true,\"client_identifier\":{\"security_device_fingerprint\":\"AbAmEzrJirbQRGGWx8/Tig==|I9h2AKXoD9kk1XhC8oaRLLLCpI+CEHlO/JT5cCTDDRqMe74Xrkybm49l4zdndsG/h7ip3FyppVSlVwukzbfp3WIB|3ZIylJae3wbkJgu2|08|3\"}}",
+      "body": "{\"error\":0,\"data\":{\"need_login\":false,\"need_captcha\":true,\"captcha_scene\":\"signup\",\"masked_phone\":\"\",\"preferred_channel\":3,\"available_channels\":[3,2,1],\"hidden_available_channels\":[2],\"skip_channel_confirmation\":false,\"flow_name\":\"default_flow\",\"session_info\":{\"seed\":\"703eb58b-a253-4ad1-bac0-26752b8b5612\",\"remaining_resend_cooldown_sec\":0,\"remaining_switch_cooldown_sec\":0},\"captcha_app_key\":\"User.RW\",\"captcha_id\":\"\"}}",
+      "hdrs": {
+        "x-api-source": "rweb",
+        "content-type": "application/json",
+        "af-ac-enc-dat": "3cd8b044d4b975fc",
+        "x-csrftoken": "kHmknWBmMD4Ssj20Q66yjcmy6hsT627T"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/anti_fraud/captcha/get_config",
+      "s": 200,
+      "post": "{\"app_key\":\"User.RW\",\"scene\":\"signup\",\"platform\":\"mobile\",\"request_id\":\"zBB0mepN6adrdBU0HB2ipsy1RTeadEn7\",\"captcha_id\":\"\"}",
+      "body": "{\"bundle_url\":\"https://deo.shopeemobile.com/shopee/captcha/jenkins/mobile/bundle.a95de02.js\",\"style_url\":\"https://deo.shopeemobile.com/shopee/captcha/jenkins/mobile/bundle.a95de02.css\",\"error\":0,\"tracking_id\":\"cEWuQRGtDhsucfPqte3M6bGZ6Dx5i8wWSbjhcFwbHQA2V7sioQPRIW-VNEIKPgcPWBYV1n1S_oYlO3IpG6ya-55xTHe3i13YhQwK1bJaYgIJbqueYlzsVz-U4kWzcdVmULwG\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "2cd3ec3335f6fdf1",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/anti_fraud/captcha/generate",
+      "s": 200,
+      "post": "{\"encrypted_data\":\"U2FsdGVkX18UOAql9wXHkL2gBjJ9LS9v1CSCYDP4tlTLmjJ446dN1u2EQKvFsO8SLq6YarxgGkpYm3pn6rFnaAKFB6fc5EzrtU6i+k7kUqgBcXjShKpDsyNnUwTgb5URn2SWXMi4M5Nwc65dLG1JCXmsgl607E2nojhoMjhjQ/6or7BuSnkVBy41iXY2jrDiqVfGecUW4TdAjIJD08WERVFLMTK0fnz4QNH1fswZ1bQkFXUrxKqv6A0YUoLQ1dggM758armJgwelBtF9rW9yljenvLXpDZp+GSbpL89Zys33FaqdKVrjT4HS0WApaptTU0oJsa2WHH6faq5j+QuMv/mWVMLLv8rsrsNJbAbRwh3XYsgLjEJL31LMpARLDjAR//tTsNAJWjKsf7/dpAgpkX85cOHDB0qBb2IUzHYhB59HJNdpeWH2r2pKubvGAM/oFmNCJ2/PHMZ0r9oGFylCRWLXtzLaoZL3OojeGZ51NN9M+1kUE1MHTg2g4We/bK3p3vvwr8N+akmyiZBi+b+mMiKK0/19dzdagvGtsi1wgn04WVZKt37vT69w0oalODSE+J0jK",
+      "body": "{\"encrypted_data\":\"U2FsdGVkX19NyYDAGbT3zKMJHOgX/BABuHnQEJ4lyacj8Y4TyajxUiQzCpScNs2WpdcjczCY/21sTPMAQxTMIYOOHKKTB772oxqZNSxhZYdqDPRPr3rV0fCbzyNFKZUuCJjeLWOM/DpH7RM6WHzu9RTAL/XvXg2feYAbBXoRsoadb6AmhSqSA+G28xZCWUy/ot0Np/7X+ApmVAwLExxgcejkYZPRdT/nu32NpNMkvgy4GxJnmNyikAtKDiVI+5mzIb4K/7kkMTv5w5AKOPrdDKK+/cLRA9gnRgRRH1J++/95zlOUOwoMnkfKmY0IVmKBg1nXYUnr44ZbpgFQ+SW8UVm708587zkQEdNus7pKnUepsAumAtDrS4T2vD9LwF9ssemncsEaV6xMGkB2pDTjdbqywASjBfxyRXP0RlocH0QFtrwtwSz58OwX4qzTVf5PS21wMOM3i6t4kZ4e7BKbzQ8RxJay176jAS+458YhQQl4N57B52mBBcUIaDAZJf5KHVNnVHiMtDj/Vi2+mFtQLweVasSKC3q4Sy117Seg7p4YqoFuj4HMvpqQTdysStxFU8A9N",
+      "hdrs": {
+        "af-ac-enc-dat": "fbdabfad131afbc1",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/anti_fraud/captcha/feedback/questions",
+      "s": 200,
+      "post": "{\"app_key\":\"User.RW\",\"scene\":\"signup\",\"captcha_id\":\"YWR2YW5jZWRfc2xpZGVyOjE3OTE5NzM4NTUzMzg3MzQ5NjA1NzEyMTg\",\"tracking_id\":\"cEWuQRGtDhsucfPqte3M6bGZ6Dx5i8wWSbjhcFwbHQA2V7sioQPRIW-VNEIKPgcPWBYV1n1S_oYlO3IpG6ya-55xTHe3i13YhQwK1bJaYgIJbqueYlzsVz-U4kWzcdVmULwG\",\"audio\":false}",
+      "body": "{\"questions\":[{\"id\":0,\"key\":\"label_captcha_report_issue_9\"},{\"id\":1,\"key\":\"label_captcha_report_issue_1\"},{\"id\":2,\"key\":\"label_captcha_report_issue_2\"},{\"id\":4,\"key\":\"label_captcha_report_issue_4\"},{\"id\":5,\"key\":\"label_captcha_report_issue_5\"}]}",
+      "hdrs": {
+        "af-ac-enc-dat": "60741d5059ecd545",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "m": "POST",
+      "u": "https://shopee.co.id/api/v4/web/subcart",
+      "s": 200,
+      "post": "{\"data\":\"TQAPRigAQNBvwTEQjjGy8723MgwG57Jirn3gAEtpWwoH2IuWGErUmrmuyBOVTNbTDNbI245jujTEqpaUjTWGZgkAGizjAysD4B4+hA6gG6yW/eN9JBw71+UB7Ku1Gf8zNvhDwPksKlEwPaFuD4sA9AviAzJKANEf+2G7AGVKSru8mXB1gJdtYWemYoA1jDpEjVjo6LuAqlmzTWmEsn5+bxdU2KlM4kkkvPnU+40iZa6JN7L5Gah6IFOgEc+b6LjIdX2HO9YQ0AKn3U+ZEGrCy5XZbauS/dcYLvLUAAvgfnjsPSUn23oTjyjyLPbHYCdzBnKdxD09HPvves5+nlQX7JC8R3WqKnJNA8LZ6UVe7ANUGdtKav6CqkwW2Vi+fkEMq7dRPBq7Tn9gy+Ir3ejWS2c7OPQfEE8rhfkJ6NPGpgJUY+E8RKh5nLvlCNLhJo6BzyaJ+6o7/ww+frrSjjrqCPyuZcyjWS9mSB4+Bje/T6MEooNItJgBSArk9nnidE2CeYasD7W7fewDlspGo/uQTljqN++J+Q4t//FU56AIqOUrF7ekVJj+ZtuZyA+T+YMr2QWgzOrlH4/CtaT",
+      "body": "{\"data\":\"OK\"}",
+      "hdrs": {
+        "af-ac-enc-dat": "d0ab3d79807205e0",
+        "content-type": "application/json"
+      }
+    }
+  ]
+}

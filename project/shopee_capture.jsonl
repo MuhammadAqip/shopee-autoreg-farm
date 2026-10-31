@@ -1,0 +1,1 @@
+{"t": "18:32:01", "dir": "REQ", "method": "POST", "url": "https://shopee.co.id/api/v4/account/get_banner_text", "headers": {"user-agent": "curl/8.5.0", "accept": "*/*", "content-type": "application/json", "content-length": "38"}, "body": "{\"banner_name\":\"new_user_signup_page\"}"}

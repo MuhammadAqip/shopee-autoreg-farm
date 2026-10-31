@@ -1,0 +1,12 @@
+{
+ "derive": [
+  {
+   "alg": "X25519",
+   "pub": null,
+   "secret_hex": "07e4cb261787799eaed849aad27917d77b1e0d58fd0c10c4bf99db53e6514f6b",
+   "secret_b64": "B+TLJheHeZ6u2Emq0nkX13seDVj9DBDEv5nbU+ZRT2s="
+  }
+ ],
+ "keys": [],
+ "verify": []
+}

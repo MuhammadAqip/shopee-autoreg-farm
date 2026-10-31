@@ -1,0 +1,20 @@
+{
+ "running": false,
+ "target": 2,
+ "done": 2,
+ "ok": 1,
+ "fail": 1,
+ "results": [
+  {
+   "email": "?",
+   "ok": false
+  },
+  {
+   "email": "ws0f6lzrll@mail.withu.my.id",
+   "apikey": "c4feb7fdf3fbe61343bfa70e91775303",
+   "credits": 25
+  }
+ ],
+ "started": "2026-10-15 21:47:03",
+ "finished": "2026-10-15 21:53:44"
+}

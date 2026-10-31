@@ -1,0 +1,11 @@
+{
+ "calls": [
+  {
+   "m": "POST",
+   "url": "https://df.infra.sz.shopee.co.id/v2/shpsec/web/report",
+   "st": 200,
+   "req": "JxcBAAAABAAAAIAAADIOfhez1ABNXqQR4GqQqZtUZzfpWmPsF8KjIuzbHx5DKHczEzVPKgGQT+73uB8dzK1jhUIXm1Lx1NHtMvYtdiN5LWeMFa7XKCBW2uA3Wy+wflraznqeXlin9SAimwSlAdDgR1t9BsncJvEwrVs1KDyR8RufFmU7qCxUps7XE+F77nabYChjdGVe7wAAAAYAAAAAAAAAADGAZjwhSQVsHY9fznod3PA/4b3mx4HHNRugMxYdH7WwN17ixX9t+CGChq8QbmIti8xKX3mSOhiIsjbGz6pj+asIeEnycDz/W6FmyqKa0QQdkcuIZ6b37i9YuPiCsniMFZY2gbrlfvca5QkAC/vItMguy5GWQTbvttg0EwveScskX+SkT+zzvKGX",
+   "res": "{\"code\":0,\"msg\":\"success\",\"data\":{\"riskToken\":\"/GxGqhL7h/iqM/W4CAxGog==|XJ257sQOIeoCSdeqFRGAFCTs3F8Qi40uK2Ph8f2UXUn0y21Lh5UrNiQR51si40YsBFIgqksJ1h6zBfzdd+AUIOvQtEQ=|2RANwqfLdkhyw6EY|08|3\",\"cfgInfo\":null}}"
+  }
+ ]
+}

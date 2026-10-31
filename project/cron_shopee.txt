@@ -1,0 +1,9 @@
+# cron jobs — shopee-farm maintenance
+# key watchdog tiap 30 menit (jaga pool kredit hidup + feed dari sadfarm)
+*/30 * * * * cd /root/shopee-farm && /root/sniffenv/bin/python key_watchdog.py --min-alive 2 --min-credits 20 >> /tmp/watchdog.log 2>&1
+# warmer + validate akun tiap 6 jam (ping + aktivitas ringan)
+0 */6 * * * cd /root/shopee-farm && /root/sniffenv/bin/python account_warmer.py --proxy --warm >> /tmp/health.log 2>&1
+# proxy health tiap 2 jam (refresh proxies_best.txt)
+15 */2 * * * cd /root/shopee-farm && /root/sniffenv/bin/python proxy_health.py >> /tmp/proxyhealth.log 2>&1
+# prewarm captcha cache tiap 20 menit (headless, 15 puzzle)
+*/20 * * * * cd /root/shopee-farm && timeout 300 /root/sniffenv/bin/python prewarm_cache.py 15 --headless >> /tmp/prewarm.log 2>&1

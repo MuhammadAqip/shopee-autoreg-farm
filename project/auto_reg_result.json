@@ -1,0 +1,38 @@
+{
+  "profile": {
+    "name": "Sandi Handayani",
+    "username": "olivia033",
+    "password": "[REDACTED]",
+    "phone": "081234567890",
+    "email": "mxnzpbamj9517@gmail.com",
+    "gender": "male",
+    "birthdate": "15/08/1994"
+  },
+  "result": {
+    "phone": "081234567890",
+    "name": "Sandi Handayani",
+    "steps": [
+      "loaded",
+      "lang_dismissed",
+      "phone_filled",
+      "next_clicked",
+      "tos_modal_agreed"
+    ],
+    "get_settings_v2": null,
+    "device_fingerprint": "gq2qri+snOezkf56H6Mk6g==|dZ2s8nLwqcHfDcCZIggVCGa+A+VlawjRk5F/j3t8vJECi/Y3IZm6aoqjV6FT60dEiCnWvGmDGXN6FjEYZyJpxGeNq+Q=|3gfOxLDWFjGqHOl0|08|3",
+    "headers": {
+      "https://shopee.co.id/api/v4/otp/get_settings_v2": {
+        "x-api-source": "pc",
+        "x-requested-with": "XMLHttpRequest",
+        "af-ac-enc-dat": "b0c9718544dc2712",
+        "x-csrftoken": "Pal1w33FtQZTxt8E2lVvHalAzhLn6UQx",
+        "referer": "https://shopee.co.id/buyer/signup",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    "all_api": [
+      "request_headers",
+      "get_settings_body"
+    ]
+  }
+}
