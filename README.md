@@ -1,3 +1,30 @@
+<!-- HERO -->
+<p align="center">
+  <img src="assets/banner.png" alt="shopee-autoreg-farm" width="100%">
+</p>
+
+<h3 align="center">Farm registrasi Shopee berbasis browser nyata — fingerprint, captcha cache, rotasi key.</h3>
+
+<p align="center"><code>shopee-autoreg-farm</code></p>
+
+| | |
+|---|---|
+| **Stack** | Python · Playwright · SadCaptcha |
+| **Ukuran** | 370 file · 88 dokumen |
+| **Isi** | auto_reg · farm_production · worker_pool · key_manager |
+| **Docs** | [README](README.md) · [AGENTS](AGENTS.md) · [ROADMAP](docs/ROADMAP.md) |
+
+<details>
+<summary><b>Screenshot — output nyata</b></summary>
+
+<p align="center">
+  <img src="assets/terminal.png" alt="terminal" width="100%">
+</p>
+
+</details>
+
+---
+
 # SHOPEE AUTO-REGISTER FARM
 
 > Auto-registrasi akun Shopee Indonesia berbasis browser nyata, dengan
